@@ -691,13 +691,7 @@
                                             "x": 0.98,
                                             "y": 0.5,
                                             "uniqueID": "d9ad34eb-4a36-4e7c-b4d8-424a781c86d5",
-                                            "ioValues": [
-                                                {
-                                                    "name": "number or geometry",
-                                                    "ioValue": "c7040c06-9153-4299-9152-59d4daac245f",
-                                                    "currentEquation": null
-                                                }
-                                            ]
+                                            "ioValues": []
                                         },
                                         {
                                             "atomType": "Input",
@@ -758,8 +752,8 @@
                                         {
                                             "atomType": "Extrude",
                                             "name": "Extrude",
-                                            "x": 0.39949109414758266,
-                                            "y": 0.6520270270270271,
+                                            "x": 0.31806615776081426,
+                                            "y": 0.6858108108108109,
                                             "uniqueID": "a942bc07-5ac5-4648-82e6-ba04df652fa6",
                                             "ioValues": [
                                                 {
@@ -777,15 +771,10 @@
                                         {
                                             "atomType": "Move",
                                             "name": "Move",
-                                            "x": 0.5216284987277354,
-                                            "y": 0.5506756756756757,
+                                            "x": 0.712468193384224,
+                                            "y": 0.34121621621621623,
                                             "uniqueID": "decade04-7d40-4546-9832-790201fa6880",
                                             "ioValues": [
-                                                {
-                                                    "name": "geometry",
-                                                    "ioValue": "a942bc07-5ac5-4648-82e6-ba04df652fa6",
-                                                    "currentEquation": null
-                                                },
                                                 {
                                                     "name": "xDist",
                                                     "ioValue": 0,
@@ -814,24 +803,19 @@
                                                     "name": "geometry1",
                                                     "ioValue": "0e833d23-6a44-4cd6-a715-81acb450b88e",
                                                     "currentEquation": null
-                                                },
-                                                {
-                                                    "name": "geometry2",
-                                                    "ioValue": "decade04-7d40-4546-9832-790201fa6880",
-                                                    "currentEquation": null
                                                 }
                                             ]
                                         },
                                         {
                                             "atomType": "Molecule",
                                             "name": "Add Magnet Holes",
-                                            "x": 0.7659033078880407,
-                                            "y": 0.5405405405405405,
+                                            "x": 0.5216284987277354,
+                                            "y": 0.5371621621621622,
                                             "uniqueID": "9e7acc3c-f46f-4261-af3f-e2d80fa0d85a",
                                             "ioValues": [
                                                 {
                                                     "name": "input",
-                                                    "ioValue": "decade04-7d40-4546-9832-790201fa6880",
+                                                    "ioValue": "a942bc07-5ac5-4648-82e6-ba04df652fa6",
                                                     "currentEquation": null
                                                 }
                                             ],
@@ -843,7 +827,13 @@
                                                     "x": 0.98,
                                                     "y": 0.5,
                                                     "uniqueID": "571a0e76-8e2c-47fa-a8f8-1f1d68345d86",
-                                                    "ioValues": []
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "number or geometry",
+                                                            "ioValue": "54b3efdd-40c0-4859-9936-2c21e4411093",
+                                                            "currentEquation": null
+                                                        }
+                                                    ]
                                                 },
                                                 {
                                                     "atomType": "Input",
@@ -857,21 +847,375 @@
                                                 {
                                                     "atomType": "Circle",
                                                     "name": "Circle",
-                                                    "x": 0.2366412213740458,
-                                                    "y": 0.7905405405405406,
+                                                    "x": 0.13740458015267176,
+                                                    "y": 0.9391891891891891,
                                                     "uniqueID": "89fc94a1-4763-4337-bc55-5fd2e05a924b",
                                                     "ioValues": [
                                                         {
                                                             "name": "diameter",
+                                                            "ioValue": 8,
+                                                            "currentEquation": "8"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "atomType": "Circle",
+                                                    "name": "Circle",
+                                                    "x": 0.11195928753180662,
+                                                    "y": 0.6520270270270271,
+                                                    "uniqueID": "16874142-a389-4a4c-b11d-1a1eeb28554b",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "diameter",
+                                                            "ioValue": 10,
+                                                            "currentEquation": "10"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "atomType": "Difference",
+                                                    "name": "Difference",
+                                                    "x": 0.40712468193384227,
+                                                    "y": 0.7905405405405406,
+                                                    "uniqueID": "ca7b3902-9bbe-4c2d-98f9-d0e7083dc7ad",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "geometry1",
+                                                            "ioValue": "16874142-a389-4a4c-b11d-1a1eeb28554b",
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "geometry2",
+                                                            "ioValue": "89fc94a1-4763-4337-bc55-5fd2e05a924b",
+                                                            "currentEquation": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "atomType": "Extrude",
+                                                    "name": "Extrude",
+                                                    "x": 0.6030534351145038,
+                                                    "y": 0.9054054054054054,
+                                                    "uniqueID": "7f011516-c857-4d5d-a8ed-25970f9ba965",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "geometry",
+                                                            "ioValue": "ca7b3902-9bbe-4c2d-98f9-d0e7083dc7ad",
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "height",
                                                             "ioValue": 10,
                                                             "currentEquation": null
                                                         }
                                                     ]
+                                                },
+                                                {
+                                                    "atomType": "Difference",
+                                                    "name": "Difference",
+                                                    "x": 0.6539440203562341,
+                                                    "y": 0.42567567567567566,
+                                                    "uniqueID": "54b3efdd-40c0-4859-9936-2c21e4411093",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "geometry1",
+                                                            "ioValue": "a942bc07-5ac5-4648-82e6-ba04df652fa6",
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "geometry2",
+                                                            "ioValue": "e5bade3f-ae0f-4a10-b7d9-7d8f66f7d754",
+                                                            "currentEquation": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "atomType": "Move",
+                                                    "name": "Move",
+                                                    "x": 0.5648854961832062,
+                                                    "y": 0.6114864864864865,
+                                                    "uniqueID": "42f4a4f8-7bc9-4b15-8c89-b65c4dbe7c74",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "geometry",
+                                                            "ioValue": "7f011516-c857-4d5d-a8ed-25970f9ba965",
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "xDist",
+                                                            "ioValue": 20,
+                                                            "currentEquation": "20"
+                                                        },
+                                                        {
+                                                            "name": "yDist",
+                                                            "ioValue": 0,
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "zDist",
+                                                            "ioValue": 0,
+                                                            "currentEquation": null
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "atomType": "GitHubMolecule",
+                                                    "name": "RotatePattern",
+                                                    "x": 0.7964376590330788,
+                                                    "y": 0.7770270270270271,
+                                                    "uniqueID": "e5bade3f-ae0f-4a10-b7d9-7d8f66f7d754",
+                                                    "ioValues": [
+                                                        {
+                                                            "name": "Shape",
+                                                            "ioValue": "42f4a4f8-7bc9-4b15-8c89-b65c4dbe7c74",
+                                                            "currentEquation": null
+                                                        },
+                                                        {
+                                                            "name": "Number",
+                                                            "ioValue": 6,
+                                                            "currentEquation": "6"
+                                                        },
+                                                        {
+                                                            "name": "Angle",
+                                                            "ioValue": 60,
+                                                            "currentEquation": "360/6"
+                                                        }
+                                                    ],
+                                                    "topLevel": false,
+                                                    "allAtoms": [
+                                                        {
+                                                            "atomType": "Output",
+                                                            "name": "Output",
+                                                            "x": 0.98,
+                                                            "y": 0.5,
+                                                            "uniqueID": "9f6fecd0-4591-4f4a-9c34-9109eb64a786",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "number or geometry",
+                                                                    "ioValue": "3331c5fc-076d-4181-91cc-47b1b7cc24e3",
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Input",
+                                                            "name": "Shape",
+                                                            "x": 0.07755,
+                                                            "y": 0.3788300835654596,
+                                                            "uniqueID": "90abe010-ebcc-4e33-9c17-02de4988fbd2",
+                                                            "ioValues": []
+                                                        },
+                                                        {
+                                                            "atomType": "Input",
+                                                            "name": "Number",
+                                                            "x": 0.07755,
+                                                            "y": 0.8440111420612814,
+                                                            "uniqueID": "ef4b7540-c13e-477c-bfd5-801a4a7fb025",
+                                                            "ioValues": []
+                                                        },
+                                                        {
+                                                            "atomType": "Input",
+                                                            "name": "Angle",
+                                                            "x": 0.07755,
+                                                            "y": 0.5821727019498607,
+                                                            "uniqueID": "2cd0c0fc-9fb9-48a6-a8b7-a4c5a65a2d3d",
+                                                            "ioValues": []
+                                                        },
+                                                        {
+                                                            "atomType": "Circle",
+                                                            "name": "Circle",
+                                                            "x": 0.19136960600375233,
+                                                            "y": 0.20055710306406688,
+                                                            "uniqueID": "b001cd05-8c0d-4bd6-ab04-1678f22148a3",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "diameter",
+                                                                    "ioValue": 10,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Move",
+                                                            "name": "Move",
+                                                            "x": 0.2786116322701689,
+                                                            "y": 0.36490250696378834,
+                                                            "uniqueID": "f1ec24c9-218f-4909-9319-5e0c462e1841",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "xDist",
+                                                                    "ioValue": 100,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "yDist",
+                                                                    "ioValue": 0,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "zDist",
+                                                                    "ioValue": 0,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "atomType": "Code",
+                                                            "name": "Code",
+                                                            "x": 0.5741525423728814,
+                                                            "y": 0.6072423398328691,
+                                                            "uniqueID": "3331c5fc-076d-4181-91cc-47b1b7cc24e3",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "Shape",
+                                                                    "ioValue": "42f4a4f8-7bc9-4b15-8c89-b65c4dbe7c74",
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "Number",
+                                                                    "ioValue": 6,
+                                                                    "currentEquation": null
+                                                                },
+                                                                {
+                                                                    "name": "Angle",
+                                                                    "ioValue": 60,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ],
+                                                            "codeVersion": 1,
+                                                            "code": "//Inputs:[Shape, Number, Angle];\n\n\nlet shapesArray = [];\nfor (let i = 0; i < Number; i++) {\n    let rotatedShape = await Rotate(Shape, 0, 0, Angle * i);\n    shapesArray.push(rotatedShape);\n}\n\nlet assembledShape = await Assembly(shapesArray)\n\nreturn assembledShape;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    /**\n    To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n    If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n    Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n    https://replicad.xyz/docs/introapp/UserGuide.html \n    Return a replicad object that includes geometry, color, tags and plane. \n\n\n    Example Code Atom:\n\n      Inputs:[shape, x];\n\n      let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n\n      return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n\n      - See more examples at _______ \n\n\n    */\n"
+                                                        },
+                                                        {
+                                                            "atomType": "Extrude",
+                                                            "name": "Extrude",
+                                                            "x": 0.4586864406779661,
+                                                            "y": 0.2618384401114206,
+                                                            "uniqueID": "055d6d8c-6575-40ff-9185-adf341856ceb",
+                                                            "ioValues": [
+                                                                {
+                                                                    "name": "height",
+                                                                    "ioValue": 10,
+                                                                    "currentEquation": null
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "allConnectors": [
+                                                        {
+                                                            "ap1Name": "number or geometry",
+                                                            "ap2Name": "Shape",
+                                                            "ap1ID": "90abe010-ebcc-4e33-9c17-02de4988fbd2",
+                                                            "ap2ID": "3331c5fc-076d-4181-91cc-47b1b7cc24e3"
+                                                        },
+                                                        {
+                                                            "ap1Name": "number or geometry",
+                                                            "ap2Name": "Number",
+                                                            "ap1ID": "ef4b7540-c13e-477c-bfd5-801a4a7fb025",
+                                                            "ap2ID": "3331c5fc-076d-4181-91cc-47b1b7cc24e3"
+                                                        },
+                                                        {
+                                                            "ap1Name": "number or geometry",
+                                                            "ap2Name": "Angle",
+                                                            "ap1ID": "2cd0c0fc-9fb9-48a6-a8b7-a4c5a65a2d3d",
+                                                            "ap2ID": "3331c5fc-076d-4181-91cc-47b1b7cc24e3"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry",
+                                                            "ap1ID": "b001cd05-8c0d-4bd6-ab04-1678f22148a3",
+                                                            "ap2ID": "f1ec24c9-218f-4909-9319-5e0c462e1841"
+                                                        },
+                                                        {
+                                                            "ap1Name": "geometry",
+                                                            "ap2Name": "geometry",
+                                                            "ap1ID": "f1ec24c9-218f-4909-9319-5e0c462e1841",
+                                                            "ap2ID": "055d6d8c-6575-40ff-9185-adf341856ceb"
+                                                        },
+                                                        {
+                                                            "ap1Name": "output",
+                                                            "ap2Name": "number or geometry",
+                                                            "ap1ID": "3331c5fc-076d-4181-91cc-47b1b7cc24e3",
+                                                            "ap2ID": "9f6fecd0-4591-4f4a-9c34-9109eb64a786"
+                                                        }
+                                                    ],
+                                                    "parentRepo": {
+                                                        "lastFoundGit": "2025-09-21T15:47:14.692Z",
+                                                        "repoName": "RotatePattern",
+                                                        "dateCreated": "2024-10-01T18:14:59Z",
+                                                        "readMe": "https://raw.githubusercontent.com/BarbourSmith/RotatePattern/master/README.md?sanitize=true",
+                                                        "yyyy": 2024,
+                                                        "topMoleculeID": 1727806499549,
+                                                        "githubMoleculesUsed": [],
+                                                        "html_url": "https://github.com/BarbourSmith/RotatePattern",
+                                                        "topics": [],
+                                                        "parentRepo": null,
+                                                        "forks": 0,
+                                                        "dateModified": "739160",
+                                                        "ranking": 0,
+                                                        "searchField": "rotatepattern barboursmith",
+                                                        "owner": "BarbourSmith",
+                                                        "description": "",
+                                                        "contentURL": "https://raw.githubusercontent.com/BarbourSmith/RotatePattern/master/project.abundance?sanitize=true",
+                                                        "svgURL": "https://raw.githubusercontent.com/BarbourSmith/RotatePattern/master/project.svg?sanitize=true",
+                                                        "isLocal": false
+                                                    },
+                                                    "unitsKey": "Inches",
+                                                    "fileTypeVersion": 1,
+                                                    "compiledBom": []
                                                 }
                                             ],
-                                            "allConnectors": [],
+                                            "allConnectors": [
+                                                {
+                                                    "ap1Name": "number or geometry",
+                                                    "ap2Name": "geometry1",
+                                                    "ap1ID": "420f0fc4-59a0-416a-a719-6a508c9f9293",
+                                                    "ap2ID": "54b3efdd-40c0-4859-9936-2c21e4411093"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry",
+                                                    "ap2Name": "geometry2",
+                                                    "ap1ID": "89fc94a1-4763-4337-bc55-5fd2e05a924b",
+                                                    "ap2ID": "ca7b3902-9bbe-4c2d-98f9-d0e7083dc7ad"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry",
+                                                    "ap2Name": "geometry1",
+                                                    "ap1ID": "16874142-a389-4a4c-b11d-1a1eeb28554b",
+                                                    "ap2ID": "ca7b3902-9bbe-4c2d-98f9-d0e7083dc7ad"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry",
+                                                    "ap2Name": "geometry",
+                                                    "ap1ID": "ca7b3902-9bbe-4c2d-98f9-d0e7083dc7ad",
+                                                    "ap2ID": "7f011516-c857-4d5d-a8ed-25970f9ba965"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry",
+                                                    "ap2Name": "geometry",
+                                                    "ap1ID": "7f011516-c857-4d5d-a8ed-25970f9ba965",
+                                                    "ap2ID": "42f4a4f8-7bc9-4b15-8c89-b65c4dbe7c74"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry",
+                                                    "ap2Name": "number or geometry",
+                                                    "ap1ID": "54b3efdd-40c0-4859-9936-2c21e4411093",
+                                                    "ap2ID": "571a0e76-8e2c-47fa-a8f8-1f1d68345d86"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry",
+                                                    "ap2Name": "Shape",
+                                                    "ap1ID": "42f4a4f8-7bc9-4b15-8c89-b65c4dbe7c74",
+                                                    "ap2ID": "e5bade3f-ae0f-4a10-b7d9-7d8f66f7d754"
+                                                },
+                                                {
+                                                    "ap1Name": "geometry or number",
+                                                    "ap2Name": "geometry2",
+                                                    "ap1ID": "e5bade3f-ae0f-4a10-b7d9-7d8f66f7d754",
+                                                    "ap2ID": "54b3efdd-40c0-4859-9936-2c21e4411093"
+                                                }
+                                            ],
                                             "fileTypeVersion": 1,
-                                            "compiledBom": {}
+                                            "compiledBom": []
                                         }
                                     ],
                                     "allConnectors": [
@@ -901,9 +1245,9 @@
                                         },
                                         {
                                             "ap1Name": "geometry",
-                                            "ap2Name": "geometry",
+                                            "ap2Name": "input",
                                             "ap1ID": "a942bc07-5ac5-4648-82e6-ba04df652fa6",
-                                            "ap2ID": "decade04-7d40-4546-9832-790201fa6880"
+                                            "ap2ID": "9e7acc3c-f46f-4261-af3f-e2d80fa0d85a"
                                         },
                                         {
                                             "ap1Name": "geometry",
@@ -913,15 +1257,15 @@
                                         },
                                         {
                                             "ap1Name": "geometry",
-                                            "ap2Name": "input",
-                                            "ap1ID": "decade04-7d40-4546-9832-790201fa6880",
-                                            "ap2ID": "9e7acc3c-f46f-4261-af3f-e2d80fa0d85a"
-                                        },
-                                        {
-                                            "ap1Name": "geometry",
                                             "ap2Name": "number or geometry",
                                             "ap1ID": "c7040c06-9153-4299-9152-59d4daac245f",
                                             "ap2ID": "d9ad34eb-4a36-4e7c-b4d8-424a781c86d5"
+                                        },
+                                        {
+                                            "ap1Name": "geometry or number",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "9e7acc3c-f46f-4261-af3f-e2d80fa0d85a",
+                                            "ap2ID": "decade04-7d40-4546-9832-790201fa6880"
                                         }
                                     ],
                                     "fileTypeVersion": 1,
