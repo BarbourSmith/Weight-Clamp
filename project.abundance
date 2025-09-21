@@ -72,8 +72,8 @@
                         {
                             "atomType": "Molecule",
                             "name": "Outline",
-                            "x": 0.1272264631043257,
-                            "y": 0.5810810810810811,
+                            "x": 0.1297709923664122,
+                            "y": 0.5675675675675675,
                             "uniqueID": "0e833d23-6a44-4cd6-a715-81acb450b88e",
                             "ioValues": [],
                             "topLevel": false,
@@ -666,11 +666,17 @@
                                 },
                                 {
                                     "atomType": "Molecule",
-                                    "name": "Molecule",
-                                    "x": 0.5012722646310432,
-                                    "y": 0.7668918918918919,
+                                    "name": "Interior volume",
+                                    "x": 0.4020356234096692,
+                                    "y": 0.7027027027027026,
                                     "uniqueID": "a1ef8035-679e-4174-99fe-ce0deb772853",
-                                    "ioValues": [],
+                                    "ioValues": [
+                                        {
+                                            "name": "input",
+                                            "ioValue": "0e833d23-6a44-4cd6-a715-81acb450b88e",
+                                            "currentEquation": null
+                                        }
+                                    ],
                                     "topLevel": false,
                                     "allAtoms": [
                                         {
@@ -680,14 +686,104 @@
                                             "y": 0.5,
                                             "uniqueID": "d9ad34eb-4a36-4e7c-b4d8-424a781c86d5",
                                             "ioValues": []
+                                        },
+                                        {
+                                            "atomType": "Input",
+                                            "name": "input",
+                                            "x": 0.07755,
+                                            "y": 0.7668918918918919,
+                                            "uniqueID": "c8eb1f8e-3339-4e1b-a968-26b04440293d",
+                                            "ioValues": [],
+                                            "type": "geometry"
+                                        },
+                                        {
+                                            "atomType": "Circle",
+                                            "name": "Circle",
+                                            "x": 0.20610687022900762,
+                                            "y": 0.3716216216216216,
+                                            "uniqueID": "25e0dcd0-dcb5-46a8-bcd2-f2f091e2fc20",
+                                            "ioValues": [
+                                                {
+                                                    "name": "diameter",
+                                                    "ioValue": 27,
+                                                    "currentEquation": "27"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Circle",
+                                            "name": "Circle",
+                                            "x": 0.14758269720101783,
+                                            "y": 0.5641891891891891,
+                                            "uniqueID": "787fe2b1-3bec-402f-9aba-e413ac537a29",
+                                            "ioValues": [
+                                                {
+                                                    "name": "diameter",
+                                                    "ioValue": 89,
+                                                    "currentEquation": "89"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Difference",
+                                            "name": "Difference",
+                                            "x": 0.44529262086514,
+                                            "y": 0.4155405405405405,
+                                            "uniqueID": "d2324057-bede-4e58-936f-a1b3ed3ba322",
+                                            "ioValues": [
+                                                {
+                                                    "name": "geometry1",
+                                                    "ioValue": "787fe2b1-3bec-402f-9aba-e413ac537a29",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "geometry2",
+                                                    "ioValue": "25e0dcd0-dcb5-46a8-bcd2-f2f091e2fc20",
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Extrude",
+                                            "name": "Extrude",
+                                            "x": 0.5903307888040713,
+                                            "y": 0.6520270270270271,
+                                            "uniqueID": "a942bc07-5ac5-4648-82e6-ba04df652fa6",
+                                            "ioValues": [
+                                                {
+                                                    "name": "height",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                }
+                                            ]
                                         }
                                     ],
-                                    "allConnectors": [],
+                                    "allConnectors": [
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry2",
+                                            "ap1ID": "25e0dcd0-dcb5-46a8-bcd2-f2f091e2fc20",
+                                            "ap2ID": "d2324057-bede-4e58-936f-a1b3ed3ba322"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry1",
+                                            "ap1ID": "787fe2b1-3bec-402f-9aba-e413ac537a29",
+                                            "ap2ID": "d2324057-bede-4e58-936f-a1b3ed3ba322"
+                                        }
+                                    ],
                                     "fileTypeVersion": 1,
                                     "compiledBom": {}
                                 }
                             ],
-                            "allConnectors": [],
+                            "allConnectors": [
+                                {
+                                    "ap1Name": "number or geometry",
+                                    "ap2Name": "input",
+                                    "ap1ID": "1a329ee9-7a95-4334-b81a-8142349c0e04",
+                                    "ap2ID": "a1ef8035-679e-4174-99fe-ce0deb772853"
+                                }
+                            ],
                             "fileTypeVersion": 1,
                             "compiledBom": {}
                         }
