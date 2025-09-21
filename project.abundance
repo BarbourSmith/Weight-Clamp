@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Weight Clamp",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "9eb22017-0165-43af-bec1-532141e56764",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
