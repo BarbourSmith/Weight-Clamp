@@ -402,8 +402,8 @@
                                 {
                                     "atomType": "Rotate",
                                     "name": "Rotate",
-                                    "x": 0.6717557251908397,
-                                    "y": 0.6013513513513513,
+                                    "x": 0.6437659033078881,
+                                    "y": 0.5912162162162162,
                                     "uniqueID": "e918ded6-7215-4c25-8ff1-383dff5878de",
                                     "ioValues": [
                                         {
@@ -431,8 +431,8 @@
                                 {
                                     "atomType": "Rectangle",
                                     "name": "Rectangle",
-                                    "x": 0.20356234096692113,
-                                    "y": 0.9459459459459459,
+                                    "x": 0.06615776081424937,
+                                    "y": 0.902027027027027,
                                     "uniqueID": "8a9be040-3af4-44ab-b455-11a3608924bf",
                                     "ioValues": [
                                         {
@@ -450,8 +450,8 @@
                                 {
                                     "atomType": "Extrude",
                                     "name": "Extrude",
-                                    "x": 0.4427480916030534,
-                                    "y": 0.8817567567567567,
+                                    "x": 0.2824427480916031,
+                                    "y": 0.8513513513513513,
                                     "uniqueID": "68b940d2-cf79-4bb1-8513-27ae8f415843",
                                     "ioValues": [
                                         {
@@ -463,6 +463,81 @@
                                             "name": "height",
                                             "ioValue": 8,
                                             "currentEquation": "8"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "atomType": "Move",
+                                    "name": "Move",
+                                    "x": 0.4223918575063613,
+                                    "y": 0.8581081081081081,
+                                    "uniqueID": "192ddc03-07d3-4cac-8f65-616ec6f2f886",
+                                    "ioValues": [
+                                        {
+                                            "name": "geometry",
+                                            "ioValue": "68b940d2-cf79-4bb1-8513-27ae8f415843",
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "xDist",
+                                            "ioValue": -31,
+                                            "currentEquation": "-31"
+                                        },
+                                        {
+                                            "name": "yDist",
+                                            "ioValue": 0,
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "zDist",
+                                            "ioValue": 0,
+                                            "currentEquation": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "atomType": "Assembly",
+                                    "name": "Assembly",
+                                    "x": 0.8778625954198472,
+                                    "y": 0.6824324324324325,
+                                    "uniqueID": "c62d1262-80b7-4654-969b-cc4c8c4ffaee",
+                                    "ioValues": [
+                                        {
+                                            "name": "Shape 2",
+                                            "ioValue": null
+                                        },
+                                        {
+                                            "name": "Shape 3",
+                                            "ioValue": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "atomType": "Rotate",
+                                    "name": "Rotate",
+                                    "x": 0.638676844783715,
+                                    "y": 0.7770270270270271,
+                                    "uniqueID": "a9d7f4c7-7d54-4ea6-8fc2-4b3a848c3b49",
+                                    "ioValues": [
+                                        {
+                                            "name": "geometry",
+                                            "ioValue": "192ddc03-07d3-4cac-8f65-616ec6f2f886",
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "x-axis degrees",
+                                            "ioValue": 0,
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "y-axis degrees",
+                                            "ioValue": 0,
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "z-axis degrees",
+                                            "ioValue": null,
+                                            "currentEquation": "—45"
                                         }
                                     ]
                                 }
@@ -500,9 +575,33 @@
                                 },
                                 {
                                     "ap1Name": "geometry",
+                                    "ap2Name": "Shape 2",
+                                    "ap1ID": "e918ded6-7215-4c25-8ff1-383dff5878de",
+                                    "ap2ID": "c62d1262-80b7-4654-969b-cc4c8c4ffaee"
+                                },
+                                {
+                                    "ap1Name": "geometry",
                                     "ap2Name": "geometry",
                                     "ap1ID": "8a9be040-3af4-44ab-b455-11a3608924bf",
                                     "ap2ID": "68b940d2-cf79-4bb1-8513-27ae8f415843"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "geometry",
+                                    "ap1ID": "68b940d2-cf79-4bb1-8513-27ae8f415843",
+                                    "ap2ID": "192ddc03-07d3-4cac-8f65-616ec6f2f886"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "geometry",
+                                    "ap1ID": "192ddc03-07d3-4cac-8f65-616ec6f2f886",
+                                    "ap2ID": "a9d7f4c7-7d54-4ea6-8fc2-4b3a848c3b49"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "Shape 3",
+                                    "ap1ID": "a9d7f4c7-7d54-4ea6-8fc2-4b3a848c3b49",
+                                    "ap2ID": "c62d1262-80b7-4654-969b-cc4c8c4ffaee"
                                 }
                             ],
                             "fileTypeVersion": 1,
