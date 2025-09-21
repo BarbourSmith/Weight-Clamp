@@ -986,13 +986,13 @@
                                                         },
                                                         {
                                                             "name": "Number",
-                                                            "ioValue": 9,
-                                                            "currentEquation": "9"
+                                                            "ioValue": 6,
+                                                            "currentEquation": "6"
                                                         },
                                                         {
                                                             "name": "Angle",
-                                                            "ioValue": 40,
-                                                            "currentEquation": "360/9"
+                                                            "ioValue": 60,
+                                                            "currentEquation": "360/6"
                                                         }
                                                     ],
                                                     "topLevel": false,
@@ -1087,12 +1087,12 @@
                                                                 },
                                                                 {
                                                                     "name": "Number",
-                                                                    "ioValue": 9,
+                                                                    "ioValue": 6,
                                                                     "currentEquation": null
                                                                 },
                                                                 {
                                                                     "name": "Angle",
-                                                                    "ioValue": 40,
+                                                                    "ioValue": 60,
                                                                     "currentEquation": null
                                                                 }
                                                             ],
@@ -1429,7 +1429,13 @@
                     "x": 0.98,
                     "y": 0.5,
                     "uniqueID": "24e2de15-cb4f-4b2c-94e1-26660308c381",
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "number or geometry",
+                            "ioValue": "1af8e7f2-5b7e-42c4-83c0-99cbc96da7e5",
+                            "currentEquation": null
+                        }
+                    ]
                 },
                 {
                     "atomType": "Input",
@@ -1728,8 +1734,8 @@
                                 },
                                 {
                                     "name": "yDist",
-                                    "ioValue": 32,
-                                    "currentEquation": "32"
+                                    "ioValue": 31,
+                                    "currentEquation": "31"
                                 },
                                 {
                                     "name": "zDist",
@@ -1763,7 +1769,7 @@
                                 {
                                     "name": "z-axis degrees",
                                     "ioValue": 0,
-                                    "currentEquation": null
+                                    "currentEquation": "0"
                                 }
                             ]
                         },
@@ -1827,10 +1833,16 @@
                     "ap2Name": "input",
                     "ap1ID": "5af097cb-be02-45c9-8bf1-4fd96ec7f7c1",
                     "ap2ID": "1af8e7f2-5b7e-42c4-83c0-99cbc96da7e5"
+                },
+                {
+                    "ap1Name": "geometry or number",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": "1af8e7f2-5b7e-42c4-83c0-99cbc96da7e5",
+                    "ap2ID": "24e2de15-cb4f-4b2c-94e1-26660308c381"
                 }
             ],
             "fileTypeVersion": 1,
-            "compiledBom": {}
+            "compiledBom": []
         }
     ],
     "allConnectors": [
