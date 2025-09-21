@@ -71,9 +71,9 @@
                         },
                         {
                             "atomType": "Molecule",
-                            "name": "Lower case",
-                            "x": 0.26208651399491095,
-                            "y": 0.5067567567567568,
+                            "name": "Outline",
+                            "x": 0.1272264631043257,
+                            "y": 0.5810810810810811,
                             "uniqueID": "0e833d23-6a44-4cd6-a715-81acb450b88e",
                             "ioValues": [],
                             "topLevel": false,
@@ -87,7 +87,7 @@
                                     "ioValues": [
                                         {
                                             "name": "number or geometry",
-                                            "ioValue": "e384d00c-efa4-400d-beb1-a859c08c897c",
+                                            "ioValue": "6ca7f502-a18c-4e6a-8fea-97c16b32446e",
                                             "currentEquation": null
                                         }
                                     ]
@@ -101,8 +101,8 @@
                                     "ioValues": [
                                         {
                                             "name": "diameter",
-                                            "ioValue": 40,
-                                            "currentEquation": null
+                                            "ioValue": 26.5,
+                                            "currentEquation": "26.5"
                                         }
                                     ]
                                 },
@@ -540,6 +540,25 @@
                                     "unitsKey": "MM",
                                     "fileTypeVersion": 1,
                                     "compiledBom": []
+                                },
+                                {
+                                    "atomType": "Extrude",
+                                    "name": "Extrude",
+                                    "x": 0.727735368956743,
+                                    "y": 0.375,
+                                    "uniqueID": "6ca7f502-a18c-4e6a-8fea-97c16b32446e",
+                                    "ioValues": [
+                                        {
+                                            "name": "geometry",
+                                            "ioValue": "e384d00c-efa4-400d-beb1-a859c08c897c",
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "height",
+                                            "ioValue": 6,
+                                            "currentEquation": "6"
+                                        }
+                                    ]
                                 }
                             ],
                             "allConnectors": [
@@ -557,9 +576,9 @@
                                 },
                                 {
                                     "ap1Name": "geometry",
-                                    "ap2Name": "number or geometry",
+                                    "ap2Name": "geometry",
                                     "ap1ID": "e384d00c-efa4-400d-beb1-a859c08c897c",
-                                    "ap2ID": "1c847758-e3ac-476c-a72c-b2d2bc49395f"
+                                    "ap2ID": "6ca7f502-a18c-4e6a-8fea-97c16b32446e"
                                 },
                                 {
                                     "ap1Name": "geometry",
@@ -602,13 +621,85 @@
                                     "ap2Name": "geometry",
                                     "ap1ID": "06172897-62c0-4dd8-b4c1-a34f57f2b18d",
                                     "ap2ID": "4b3dbb8f-cf82-4e7f-a826-080ce23433bb"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "number or geometry",
+                                    "ap1ID": "6ca7f502-a18c-4e6a-8fea-97c16b32446e",
+                                    "ap2ID": "1c847758-e3ac-476c-a72c-b2d2bc49395f"
                                 }
                             ],
                             "fileTypeVersion": 1,
                             "compiledBom": []
+                        },
+                        {
+                            "atomType": "Molecule",
+                            "name": "Cut away Inside",
+                            "x": 0.4223918575063613,
+                            "y": 0.6452702702702703,
+                            "uniqueID": "8becfaf8-04fa-4143-b56d-04c6c51cf022",
+                            "ioValues": [
+                                {
+                                    "name": "input",
+                                    "ioValue": "0e833d23-6a44-4cd6-a715-81acb450b88e",
+                                    "currentEquation": null
+                                }
+                            ],
+                            "topLevel": false,
+                            "allAtoms": [
+                                {
+                                    "atomType": "Output",
+                                    "name": "Output",
+                                    "x": 0.98,
+                                    "y": 0.5,
+                                    "uniqueID": "bb41e918-4b50-4048-bcf4-c3f88f74d402",
+                                    "ioValues": []
+                                },
+                                {
+                                    "atomType": "Input",
+                                    "name": "input",
+                                    "x": 0.07755,
+                                    "y": 0.7027027027027026,
+                                    "uniqueID": "1a329ee9-7a95-4334-b81a-8142349c0e04",
+                                    "ioValues": [],
+                                    "type": "geometry"
+                                },
+                                {
+                                    "atomType": "Molecule",
+                                    "name": "Molecule",
+                                    "x": 0.5012722646310432,
+                                    "y": 0.7668918918918919,
+                                    "uniqueID": "a1ef8035-679e-4174-99fe-ce0deb772853",
+                                    "ioValues": [],
+                                    "topLevel": false,
+                                    "allAtoms": [
+                                        {
+                                            "atomType": "Output",
+                                            "name": "Output",
+                                            "x": 0.98,
+                                            "y": 0.5,
+                                            "uniqueID": "d9ad34eb-4a36-4e7c-b4d8-424a781c86d5",
+                                            "ioValues": []
+                                        }
+                                    ],
+                                    "allConnectors": [],
+                                    "fileTypeVersion": 1,
+                                    "compiledBom": {}
+                                }
+                            ],
+                            "allConnectors": [],
+                            "fileTypeVersion": 1,
+                            "compiledBom": {}
                         }
                     ],
-                    "allConnectors": [],
+                    "allConnectors": [
+                        {
+                            "ap1Name": "geometry or number",
+                            "ap2Name": "input",
+                            "ap1ID": "0e833d23-6a44-4cd6-a715-81acb450b88e",
+                            "ap2ID": "8becfaf8-04fa-4143-b56d-04c6c51cf022"
+                        }
+                    ],
                     "fileTypeVersion": 1,
                     "compiledBom": {}
                 }
