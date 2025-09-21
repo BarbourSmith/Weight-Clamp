@@ -109,8 +109,8 @@
                                 {
                                     "atomType": "GitHubMolecule",
                                     "name": "ESP32S3 module",
-                                    "x": 0.20610687022900762,
-                                    "y": 0.8682432432432433,
+                                    "x": 0.0916030534351145,
+                                    "y": 0.7736486486486487,
                                     "uniqueID": "06172897-62c0-4dd8-b4c1-a34f57f2b18d",
                                     "ioValues": [],
                                     "topLevel": false,
@@ -373,8 +373,8 @@
                                 {
                                     "atomType": "Move",
                                     "name": "Move",
-                                    "x": 0.455470737913486,
-                                    "y": 0.7297297297297297,
+                                    "x": 0.3867684478371501,
+                                    "y": 0.5945945945945946,
                                     "uniqueID": "4b3dbb8f-cf82-4e7f-a826-080ce23433bb",
                                     "ioValues": [
                                         {
@@ -402,8 +402,8 @@
                                 {
                                     "atomType": "Rotate",
                                     "name": "Rotate",
-                                    "x": 0.6870229007633588,
-                                    "y": 0.8378378378378378,
+                                    "x": 0.6717557251908397,
+                                    "y": 0.6013513513513513,
                                     "uniqueID": "e918ded6-7215-4c25-8ff1-383dff5878de",
                                     "ioValues": [
                                         {
@@ -425,6 +425,44 @@
                                             "name": "z-axis degrees",
                                             "ioValue": -55,
                                             "currentEquation": "-55"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "atomType": "Rectangle",
+                                    "name": "Rectangle",
+                                    "x": 0.20356234096692113,
+                                    "y": 0.9459459459459459,
+                                    "uniqueID": "8a9be040-3af4-44ab-b455-11a3608924bf",
+                                    "ioValues": [
+                                        {
+                                            "name": "x length",
+                                            "ioValue": 20,
+                                            "currentEquation": "20"
+                                        },
+                                        {
+                                            "name": "y length",
+                                            "ioValue": 30,
+                                            "currentEquation": "30"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "atomType": "Extrude",
+                                    "name": "Extrude",
+                                    "x": 0.4427480916030534,
+                                    "y": 0.8817567567567567,
+                                    "uniqueID": "68b940d2-cf79-4bb1-8513-27ae8f415843",
+                                    "ioValues": [
+                                        {
+                                            "name": "geometry",
+                                            "ioValue": "8a9be040-3af4-44ab-b455-11a3608924bf",
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "height",
+                                            "ioValue": 8,
+                                            "currentEquation": "8"
                                         }
                                     ]
                                 }
@@ -459,6 +497,12 @@
                                     "ap2Name": "geometry",
                                     "ap1ID": "4b3dbb8f-cf82-4e7f-a826-080ce23433bb",
                                     "ap2ID": "e918ded6-7215-4c25-8ff1-383dff5878de"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "geometry",
+                                    "ap1ID": "8a9be040-3af4-44ab-b455-11a3608924bf",
+                                    "ap2ID": "68b940d2-cf79-4bb1-8513-27ae8f415843"
                                 }
                             ],
                             "fileTypeVersion": 1,
