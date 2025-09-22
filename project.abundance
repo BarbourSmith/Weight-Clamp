@@ -99,8 +99,8 @@
         {
             "atomType": "Molecule",
             "name": "Electronics",
-            "x": 0.549618320610687,
-            "y": 0.891891891891892,
+            "x": 0.46164021164021163,
+            "y": 0.8941504178272981,
             "uniqueID": "41cf091b-5e33-43e1-b6aa-cc38024b9dc9",
             "ioValues": [
                 {
@@ -137,8 +137,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "PCB",
-                    "x": 0.32061068702290074,
-                    "y": 0.4932432432432432,
+                    "x": 0.3148148148148148,
+                    "y": 0.48467966573816157,
                     "uniqueID": "1af8e7f2-5b7e-42c4-83c0-99cbc96da7e5",
                     "ioValues": [
                         {
@@ -233,8 +233,8 @@
                         {
                             "atomType": "Assembly",
                             "name": "Assembly",
-                            "x": 0.6081424936386768,
-                            "y": 0.7432432432432432,
+                            "x": 0.5740740740740741,
+                            "y": 0.31197771587743733,
                             "uniqueID": "ca167d8f-579b-4b9c-bbb5-5f6d7adaf1fc",
                             "ioValues": [
                                 {
@@ -477,6 +477,511 @@
                             "unitsKey": "MM",
                             "fileTypeVersion": 1,
                             "compiledBom": []
+                        },
+                        {
+                            "atomType": "Molecule",
+                            "name": "Board",
+                            "x": 0.49603174603174605,
+                            "y": 0.7604456824512534,
+                            "uniqueID": "8cb7fc13-adce-40d0-a12f-7eaa38157479",
+                            "ioValues": [],
+                            "topLevel": false,
+                            "allAtoms": [
+                                {
+                                    "atomType": "Output",
+                                    "name": "Output",
+                                    "x": 0.98,
+                                    "y": 0.5,
+                                    "uniqueID": "eb53087f-71b4-4c5e-8c18-474b28bd40a2",
+                                    "ioValues": []
+                                },
+                                {
+                                    "atomType": "Circle",
+                                    "name": "Circle",
+                                    "x": 0.03968253968253968,
+                                    "y": 0.67966573816156,
+                                    "uniqueID": "63bdb9fb-afaa-4295-82bc-435aff677b4e",
+                                    "ioValues": [
+                                        {
+                                            "name": "diameter",
+                                            "ioValue": 11,
+                                            "currentEquation": "11"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "atomType": "Move",
+                                    "name": "Move",
+                                    "x": 0.1349206349206349,
+                                    "y": 0.4651810584958217,
+                                    "uniqueID": "38284665-5147-4dd0-9eeb-10baf81a0490",
+                                    "ioValues": [
+                                        {
+                                            "name": "geometry",
+                                            "ioValue": "63bdb9fb-afaa-4295-82bc-435aff677b4e",
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "xDist",
+                                            "ioValue": 19,
+                                            "currentEquation": "19"
+                                        },
+                                        {
+                                            "name": "yDist",
+                                            "ioValue": 0,
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "zDist",
+                                            "ioValue": 0,
+                                            "currentEquation": null
+                                        }
+                                    ]
+                                },
+                                {
+                                    "atomType": "GitHubMolecule",
+                                    "name": "RotatePattern",
+                                    "x": 0.5105820105820106,
+                                    "y": 0.6824512534818942,
+                                    "uniqueID": "08ec4ca6-ff34-4b21-b55f-0919a479076f",
+                                    "ioValues": [
+                                        {
+                                            "name": "Shape",
+                                            "ioValue": "38284665-5147-4dd0-9eeb-10baf81a0490",
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "Number",
+                                            "ioValue": 10,
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "Angle",
+                                            "ioValue": 30,
+                                            "currentEquation": null
+                                        }
+                                    ],
+                                    "topLevel": false,
+                                    "allAtoms": [
+                                        {
+                                            "atomType": "Output",
+                                            "name": "Output",
+                                            "x": 0.98,
+                                            "y": 0.5,
+                                            "uniqueID": "32b23c17-2292-418d-9904-682ddc8a69d8",
+                                            "ioValues": [
+                                                {
+                                                    "name": "number or geometry",
+                                                    "ioValue": "09089716-9452-42a8-8e56-c34de57f3813",
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Input",
+                                            "name": "Shape",
+                                            "x": 0.029699999999999997,
+                                            "y": 0.3788300835654596,
+                                            "uniqueID": "d9d64dcb-374d-4948-ae59-786332893b55",
+                                            "ioValues": []
+                                        },
+                                        {
+                                            "atomType": "Input",
+                                            "name": "Number",
+                                            "x": 0.029699999999999997,
+                                            "y": 0.8440111420612814,
+                                            "uniqueID": "6a26bed3-49e0-4a3d-b2e8-7d68bf2087a6",
+                                            "ioValues": []
+                                        },
+                                        {
+                                            "atomType": "Input",
+                                            "name": "Angle",
+                                            "x": 0.029699999999999997,
+                                            "y": 0.5821727019498607,
+                                            "uniqueID": "608ee3af-e550-4139-9870-0ae929f64d1a",
+                                            "ioValues": []
+                                        },
+                                        {
+                                            "atomType": "Circle",
+                                            "name": "Circle",
+                                            "x": 0.19136960600375233,
+                                            "y": 0.20055710306406688,
+                                            "uniqueID": "2f68ce37-4b28-4603-80ab-c432ca00aea7",
+                                            "ioValues": [
+                                                {
+                                                    "name": "diameter",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.2786116322701689,
+                                            "y": 0.36490250696378834,
+                                            "uniqueID": "0f91419b-761b-41cc-8d8a-3bf1963da416",
+                                            "ioValues": [
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": 100,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Code",
+                                            "name": "Code",
+                                            "x": 0.5741525423728814,
+                                            "y": 0.6072423398328691,
+                                            "uniqueID": "09089716-9452-42a8-8e56-c34de57f3813",
+                                            "ioValues": [
+                                                {
+                                                    "name": "Shape",
+                                                    "ioValue": "38284665-5147-4dd0-9eeb-10baf81a0490",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Number",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Angle",
+                                                    "ioValue": 30,
+                                                    "currentEquation": null
+                                                }
+                                            ],
+                                            "codeVersion": 1,
+                                            "code": "//Inputs:[Shape, Number, Angle];\n\n\nlet shapesArray = [];\nfor (let i = 0; i < Number; i++) {\n    let rotatedShape = await Rotate(Shape, 0, 0, Angle * i);\n    shapesArray.push(rotatedShape);\n}\n\nlet assembledShape = await Assembly(shapesArray)\n\nreturn assembledShape;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    /**\n    To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n    If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n    Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n    https://replicad.xyz/docs/introapp/UserGuide.html \n    Return a replicad object that includes geometry, color, tags and plane. \n\n\n    Example Code Atom:\n\n      Inputs:[shape, x];\n\n      let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n\n      return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n\n      - See more examples at _______ \n\n\n    */\n"
+                                        },
+                                        {
+                                            "atomType": "Extrude",
+                                            "name": "Extrude",
+                                            "x": 0.4586864406779661,
+                                            "y": 0.2618384401114206,
+                                            "uniqueID": "d1ad3604-2857-4fde-90b7-0c0da7f4ac36",
+                                            "ioValues": [
+                                                {
+                                                    "name": "height",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "allConnectors": [
+                                        {
+                                            "ap1Name": "number or geometry",
+                                            "ap2Name": "Shape",
+                                            "ap1ID": "d9d64dcb-374d-4948-ae59-786332893b55",
+                                            "ap2ID": "09089716-9452-42a8-8e56-c34de57f3813"
+                                        },
+                                        {
+                                            "ap1Name": "number or geometry",
+                                            "ap2Name": "Number",
+                                            "ap1ID": "6a26bed3-49e0-4a3d-b2e8-7d68bf2087a6",
+                                            "ap2ID": "09089716-9452-42a8-8e56-c34de57f3813"
+                                        },
+                                        {
+                                            "ap1Name": "number or geometry",
+                                            "ap2Name": "Angle",
+                                            "ap1ID": "608ee3af-e550-4139-9870-0ae929f64d1a",
+                                            "ap2ID": "09089716-9452-42a8-8e56-c34de57f3813"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "2f68ce37-4b28-4603-80ab-c432ca00aea7",
+                                            "ap2ID": "0f91419b-761b-41cc-8d8a-3bf1963da416"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "0f91419b-761b-41cc-8d8a-3bf1963da416",
+                                            "ap2ID": "d1ad3604-2857-4fde-90b7-0c0da7f4ac36"
+                                        },
+                                        {
+                                            "ap1Name": "output",
+                                            "ap2Name": "number or geometry",
+                                            "ap1ID": "09089716-9452-42a8-8e56-c34de57f3813",
+                                            "ap2ID": "32b23c17-2292-418d-9904-682ddc8a69d8"
+                                        }
+                                    ],
+                                    "parentRepo": {
+                                        "lastFoundGit": "2025-09-22T15:47:14.556Z",
+                                        "repoName": "RotatePattern",
+                                        "dateCreated": "2024-10-01T18:14:59Z",
+                                        "readMe": "https://raw.githubusercontent.com/BarbourSmith/RotatePattern/master/README.md?sanitize=true",
+                                        "yyyy": 2024,
+                                        "topMoleculeID": 1727806499549,
+                                        "githubMoleculesUsed": [],
+                                        "html_url": "https://github.com/BarbourSmith/RotatePattern",
+                                        "topics": [],
+                                        "parentRepo": null,
+                                        "forks": 0,
+                                        "dateModified": "739160",
+                                        "ranking": 0,
+                                        "searchField": "rotatepattern barboursmith",
+                                        "owner": "BarbourSmith",
+                                        "description": "",
+                                        "contentURL": "https://raw.githubusercontent.com/BarbourSmith/RotatePattern/master/project.abundance?sanitize=true",
+                                        "svgURL": "https://raw.githubusercontent.com/BarbourSmith/RotatePattern/master/project.svg?sanitize=true",
+                                        "isLocal": false
+                                    },
+                                    "unitsKey": "Inches",
+                                    "fileTypeVersion": 1,
+                                    "compiledBom": []
+                                },
+                                {
+                                    "atomType": "GitHubMolecule",
+                                    "name": "Radial-Pattern",
+                                    "x": 0.4755291005291006,
+                                    "y": 0.33983286908078,
+                                    "uniqueID": "b9debd28-754e-4672-ae20-0c71dbf2040c",
+                                    "ioValues": [
+                                        {
+                                            "name": "Number",
+                                            "ioValue": 10,
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "Angle",
+                                            "ioValue": 10,
+                                            "currentEquation": null
+                                        },
+                                        {
+                                            "name": "Shape",
+                                            "ioValue": "38284665-5147-4dd0-9eeb-10baf81a0490",
+                                            "currentEquation": null
+                                        }
+                                    ],
+                                    "topLevel": false,
+                                    "allAtoms": [
+                                        {
+                                            "atomType": "Output",
+                                            "name": "Output",
+                                            "x": 0.98,
+                                            "y": 0.5,
+                                            "uniqueID": "6909cdf4-f74b-45f6-8824-767fcd4250f8",
+                                            "ioValues": [
+                                                {
+                                                    "name": "number or geometry",
+                                                    "ioValue": "c6f44209-d009-44fa-bca6-c0cb8443ecb3",
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Code",
+                                            "name": "Code",
+                                            "x": 0.45622489959839363,
+                                            "y": 0.6174698795180722,
+                                            "uniqueID": "c6f44209-d009-44fa-bca6-c0cb8443ecb3",
+                                            "ioValues": [
+                                                {
+                                                    "name": "Shape",
+                                                    "ioValue": "38284665-5147-4dd0-9eeb-10baf81a0490",
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Number",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "Angle",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                }
+                                            ],
+                                            "codeVersion": 1,
+                                            "code": "//Inputs:[Shape, Number, Angle];\n\nconsole.log(Shape)\nlet shapesArray = [];\nfor (let i = 0; i < Number; i++) {\n    let rotatedShape = await Rotate(Shape, 0, 0, Angle * i)\n    shapesArray.push(rotatedShape)\n}\n\nlet assembledShape = await Assembly(shapesArray)\n\nreturn assembledShape;\n\n\n"
+                                        },
+                                        {
+                                            "atomType": "Rectangle",
+                                            "name": "Rectangle",
+                                            "x": 0.1678714859437751,
+                                            "y": 0.2168674698795181,
+                                            "uniqueID": "578f282a-02ec-44ff-a51f-4db2e13513c8",
+                                            "ioValues": [
+                                                {
+                                                    "name": "x length",
+                                                    "ioValue": 3,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "y length",
+                                                    "ioValue": 3,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Move",
+                                            "name": "Move",
+                                            "x": 0.3927710843373494,
+                                            "y": 0.3042168674698795,
+                                            "uniqueID": "3a81adde-72c1-40b9-8df8-e86490d1fc86",
+                                            "ioValues": [
+                                                {
+                                                    "name": "xDist",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "yDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                },
+                                                {
+                                                    "name": "zDist",
+                                                    "ioValue": 0,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Extrude",
+                                            "name": "Extrude",
+                                            "x": 0.26265060240963856,
+                                            "y": 0.29819277108433734,
+                                            "uniqueID": "a43d18c0-1823-43da-9a91-3472af6452a2",
+                                            "ioValues": [
+                                                {
+                                                    "name": "height",
+                                                    "ioValue": 10,
+                                                    "currentEquation": null
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "atomType": "Input",
+                                            "name": "Number",
+                                            "x": 0.029699999999999997,
+                                            "y": 0.4246987951807229,
+                                            "uniqueID": "ad515bf6-47ce-4310-b1fc-dde579ef52e2",
+                                            "ioValues": [],
+                                            "type": "number"
+                                        },
+                                        {
+                                            "atomType": "Input",
+                                            "name": "Angle",
+                                            "x": 0.029699999999999997,
+                                            "y": 0.5602409638554217,
+                                            "uniqueID": "1a20b1fb-5d6f-4a8f-b36b-416060cbfc4f",
+                                            "ioValues": [],
+                                            "type": "number"
+                                        },
+                                        {
+                                            "atomType": "Input",
+                                            "name": "Shape",
+                                            "x": 0.029699999999999997,
+                                            "y": 0.8222891566265061,
+                                            "uniqueID": "f24ac8c5-ca4d-48f6-91bd-9b50f1cf7c09",
+                                            "ioValues": [],
+                                            "type": "number"
+                                        }
+                                    ],
+                                    "allConnectors": [
+                                        {
+                                            "ap1Name": "output",
+                                            "ap2Name": "number or geometry",
+                                            "ap1ID": "c6f44209-d009-44fa-bca6-c0cb8443ecb3",
+                                            "ap2ID": "6909cdf4-f74b-45f6-8824-767fcd4250f8"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "578f282a-02ec-44ff-a51f-4db2e13513c8",
+                                            "ap2ID": "a43d18c0-1823-43da-9a91-3472af6452a2"
+                                        },
+                                        {
+                                            "ap1Name": "geometry",
+                                            "ap2Name": "geometry",
+                                            "ap1ID": "a43d18c0-1823-43da-9a91-3472af6452a2",
+                                            "ap2ID": "3a81adde-72c1-40b9-8df8-e86490d1fc86"
+                                        },
+                                        {
+                                            "ap1Name": "number or geometry",
+                                            "ap2Name": "Number",
+                                            "ap1ID": "ad515bf6-47ce-4310-b1fc-dde579ef52e2",
+                                            "ap2ID": "c6f44209-d009-44fa-bca6-c0cb8443ecb3"
+                                        },
+                                        {
+                                            "ap1Name": "number or geometry",
+                                            "ap2Name": "Angle",
+                                            "ap1ID": "1a20b1fb-5d6f-4a8f-b36b-416060cbfc4f",
+                                            "ap2ID": "c6f44209-d009-44fa-bca6-c0cb8443ecb3"
+                                        },
+                                        {
+                                            "ap1Name": "number or geometry",
+                                            "ap2Name": "Shape",
+                                            "ap1ID": "f24ac8c5-ca4d-48f6-91bd-9b50f1cf7c09",
+                                            "ap2ID": "c6f44209-d009-44fa-bca6-c0cb8443ecb3"
+                                        }
+                                    ],
+                                    "parentRepo": {
+                                        "lastFoundGit": "2025-09-22T15:47:14.556Z",
+                                        "privateRepo": false,
+                                        "repoName": "Radial-Pattern",
+                                        "dateCreated": "2025-06-20T19:14:02Z",
+                                        "readMe": "https://raw.githubusercontent.com/alzatin/Radial-Pattern/master/README.md?sanitize=true",
+                                        "yyyy": 2025,
+                                        "topMoleculeID": "ab6fe8a2-4661-41e4-bc3f-45058cc58bdc",
+                                        "githubMoleculesUsed": [],
+                                        "html_url": "https://github.com/alzatin/Radial-Pattern",
+                                        "topics": [
+                                            "abundance-tool"
+                                        ],
+                                        "parentRepo": null,
+                                        "forks": 0,
+                                        "dateModified": "739450",
+                                        "ranking": 0,
+                                        "searchField": "radial-pattern alzatin  abundance-tool",
+                                        "owner": "alzatin",
+                                        "description": "",
+                                        "contentURL": "https://raw.githubusercontent.com/alzatin/Radial-Pattern/master/project.abundance?sanitize=true",
+                                        "svgURL": "https://raw.githubusercontent.com/alzatin/Radial-Pattern/master/project.svg?sanitize=true",
+                                        "isLocal": false
+                                    },
+                                    "unitsKey": "MM",
+                                    "fileTypeVersion": 1,
+                                    "compiledBom": []
+                                }
+                            ],
+                            "allConnectors": [
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "geometry",
+                                    "ap1ID": "63bdb9fb-afaa-4295-82bc-435aff677b4e",
+                                    "ap2ID": "38284665-5147-4dd0-9eeb-10baf81a0490"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "Shape",
+                                    "ap1ID": "38284665-5147-4dd0-9eeb-10baf81a0490",
+                                    "ap2ID": "08ec4ca6-ff34-4b21-b55f-0919a479076f"
+                                },
+                                {
+                                    "ap1Name": "geometry",
+                                    "ap2Name": "Shape",
+                                    "ap1ID": "38284665-5147-4dd0-9eeb-10baf81a0490",
+                                    "ap2ID": "b9debd28-754e-4672-ae20-0c71dbf2040c"
+                                }
+                            ],
+                            "fileTypeVersion": 1,
+                            "compiledBom": {}
                         }
                     ],
                     "allConnectors": [
