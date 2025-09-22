@@ -137,7 +137,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "PCB",
-                    "x": 0.3148148148148148,
+                    "x": 0.3181216931216931,
                     "y": 0.48467966573816157,
                     "uniqueID": "1af8e7f2-5b7e-42c4-83c0-99cbc96da7e5",
                     "ioValues": [
@@ -505,7 +505,7 @@
                                         {
                                             "name": "diameter",
                                             "ioValue": 11,
-                                            "currentEquation": "11"
+                                            "currentEquation": null
                                         }
                                     ]
                                 },
@@ -524,7 +524,7 @@
                                         {
                                             "name": "xDist",
                                             "ioValue": 19,
-                                            "currentEquation": "19"
+                                            "currentEquation": null
                                         },
                                         {
                                             "name": "yDist",
@@ -541,8 +541,8 @@
                                 {
                                     "atomType": "GitHubMolecule",
                                     "name": "RotatePattern",
-                                    "x": 0.5105820105820106,
-                                    "y": 0.6824512534818942,
+                                    "x": 0.5059523809523809,
+                                    "y": 0.6573816155988859,
                                     "uniqueID": "08ec4ca6-ff34-4b21-b55f-0919a479076f",
                                     "ioValues": [
                                         {
@@ -746,8 +746,8 @@
                                 {
                                     "atomType": "GitHubMolecule",
                                     "name": "Radial-Pattern",
-                                    "x": 0.4755291005291006,
-                                    "y": 0.33983286908078,
+                                    "x": 0.48280423280423285,
+                                    "y": 0.36211699164345407,
                                     "uniqueID": "b9debd28-754e-4672-ae20-0c71dbf2040c",
                                     "ioValues": [
                                         {
