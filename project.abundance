@@ -3302,8 +3302,8 @@
     {
       "atomType": "ExtractTag",
       "name": "Extract Tag",
-      "x": 0.7579365079365079,
-      "y": 0.5766016713091923,
+      "x": 0.7592592592592592,
+      "y": 0.6462395543175488,
       "uniqueID": "049bbfdb-10f3-45c1-ae45-e654990ce9b5",
       "ioValues": [],
       "tag": "Plastic",
