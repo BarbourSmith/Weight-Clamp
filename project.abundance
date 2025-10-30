@@ -2313,8 +2313,8 @@
         {
           "atomType": "Molecule",
           "name": "Battery",
-          "x": 0.33664021164021163,
-          "y": 0.7743732590529249,
+          "x": 0.33994708994708994,
+          "y": 0.777158774373259,
           "uniqueID": "165e5fe1-689e-407e-807b-be342fa05822",
           "ioValues": [],
           "topLevel": false,
@@ -2336,27 +2336,27 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 49,
-                  "currentEquation": "49"
+                  "ioValue": 52,
+                  "currentEquation": "52"
                 },
                 {
                   "name": "y length",
-                  "ioValue": 18,
-                  "currentEquation": "18"
+                  "ioValue": 20,
+                  "currentEquation": "20"
                 }
               ]
             },
             {
               "atomType": "Extrude",
               "name": "Extrude",
-              "x": 0.2455026455026455,
-              "y": 0.7214484679665739,
+              "x": 0.2466931216931217,
+              "y": 0.6991643454038997,
               "uniqueID": "62fbc23b-4d4e-4dc4-b345-185d0d2339f2",
               "ioValues": [
                 {
                   "name": "height",
-                  "ioValue": 8,
-                  "currentEquation": "8"
+                  "ioValue": 5,
+                  "currentEquation": "5"
                 }
               ]
             },
@@ -2502,8 +2502,8 @@
             {
               "atomType": "Add-BOM-Tag",
               "name": "Add BOM Tag",
-              "x": 0.5085978835978836,
-              "y": 0.6573816155988859,
+              "x": 0.5138888888888888,
+              "y": 0.6601671309192201,
               "uniqueID": "503723ff-4c82-48c9-892c-a2642583473d",
               "ioValues": [
                 {
@@ -2527,7 +2527,7 @@
                 "BOMitemName": "Battery",
                 "numberNeeded": 1,
                 "costUSD": 1,
-                "source": "https://www.amazon.com/gp/product/B09Q1F319F/"
+                "source": "https://www.amazon.com/battery-Rechargeable-Lithium-Polymer-Connector/dp/B07BTKPSNP"
               }
             },
             {
@@ -2578,53 +2578,7 @@
               "BOMitemName": "Battery",
               "numberNeeded": 1,
               "costUSD": 1,
-              "source": "https://www.amazon.com/gp/product/B09Q1F319F/"
-            }
-          ]
-        },
-        {
-          "atomType": "Rotate",
-          "name": "Rotate",
-          "x": 0.5,
-          "y": 0.8050139275766017,
-          "uniqueID": "15a7c68c-0ade-49bb-8a59-b9fe40cfae1b",
-          "ioValues": [
-            {
-              "name": "x-axis degrees",
-              "ioValue": 0
-            },
-            {
-              "name": "y-axis degrees",
-              "ioValue": 0
-            },
-            {
-              "name": "z-axis degrees",
-              "ioValue": 30,
-              "currentEquation": "30"
-            }
-          ]
-        },
-        {
-          "atomType": "Move",
-          "name": "Move",
-          "x": 0.6064814814814814,
-          "y": 0.7938718662952646,
-          "uniqueID": "141efb30-45de-4e05-8ed1-c27979f92c34",
-          "ioValues": [
-            {
-              "name": "xDist",
-              "ioValue": 15,
-              "currentEquation": "15"
-            },
-            {
-              "name": "yDist",
-              "ioValue": -20,
-              "currentEquation": "-20"
-            },
-            {
-              "name": "zDist",
-              "ioValue": 0,
-              "currentEquation": "0"
+              "source": "https://www.amazon.com/battery-Rechargeable-Lithium-Polymer-Connector/dp/B07BTKPSNP"
             }
           ]
         },
@@ -2635,64 +2589,6 @@
           "y": 0.29526462395543174,
           "uniqueID": "80207c61-9f89-44e5-b6fc-4c71feda524d",
           "ioValues": [
-            {
-              "name": "Shape 1",
-              "ioValue": {
-                "geometry": [
-                  {
-                    "geometry": "move-rotate-7ed87374-{\"geometry\":\"extrude-rectangle-49-18-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-8\",\"dimension\":\"3D\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-2-1-0-0-30-15--20-0",
-                    "dimension": "3D",
-                    "plane": {
-                      "origin": [
-                        0,
-                        0,
-                        0
-                      ],
-                      "xDir": [
-                        1,
-                        0,
-                        0
-                      ],
-                      "normal": [
-                        0,
-                        0,
-                        1
-                      ]
-                    },
-                    "color": "#FFFCF7",
-                    "tags": [],
-                    "bom": [
-                      {
-                        "BOMitemName": "Battery",
-                        "numberNeeded": 1,
-                        "costUSD": 1,
-                        "source": "https://www.amazon.com/gp/product/B09Q1F319F/"
-                      }
-                    ]
-                  }
-                ],
-                "plane": {
-                  "origin": [
-                    0,
-                    0,
-                    0
-                  ],
-                  "xDir": [
-                    1,
-                    0,
-                    0
-                  ],
-                  "normal": [
-                    0,
-                    0,
-                    1
-                  ]
-                },
-                "color": "#aad7f2",
-                "tags": [],
-                "bom": []
-              }
-            },
             {
               "name": "Shape 2",
               "ioValue": {
@@ -2854,6 +2750,108 @@
                 ],
                 "dimension": "3D"
               }
+            },
+            {
+              "name": "Shape 3",
+              "ioValue": {
+                "geometry": [
+                  {
+                    "geometry": "rotate-move-7ed87374-{\"geometry\":\"extrude-rectangle-52-20-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5\",\"dimension\":\"3D\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-2-1-0--28-0-0-0-25",
+                    "dimension": "3D",
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#FFFCF7",
+                    "tags": [],
+                    "bom": [
+                      {
+                        "BOMitemName": "Battery",
+                        "numberNeeded": 1,
+                        "costUSD": 1,
+                        "source": "https://www.amazon.com/battery-Rechargeable-Lithium-Polymer-Connector/dp/B07BTKPSNP"
+                      }
+                    ]
+                  }
+                ],
+                "plane": {
+                  "origin": [
+                    0,
+                    0,
+                    0
+                  ],
+                  "xDir": [
+                    1,
+                    0,
+                    0
+                  ],
+                  "normal": [
+                    0,
+                    0,
+                    1
+                  ]
+                },
+                "color": "#aad7f2",
+                "tags": [],
+                "bom": []
+              }
+            }
+          ]
+        },
+        {
+          "atomType": "Move",
+          "name": "Move",
+          "x": 0.4642857142857143,
+          "y": 0.8245125348189415,
+          "uniqueID": "714321d1-ebd4-486c-b3c9-3a71ea90b34d",
+          "ioValues": [
+            {
+              "name": "xDist",
+              "ioValue": 0
+            },
+            {
+              "name": "yDist",
+              "ioValue": -28,
+              "currentEquation": "-28"
+            },
+            {
+              "name": "zDist",
+              "ioValue": 0
+            }
+          ]
+        },
+        {
+          "atomType": "Rotate",
+          "name": "Rotate",
+          "x": 0.582010582010582,
+          "y": 0.7548746518105849,
+          "uniqueID": "2123256b-1857-4743-b6e6-226b60396500",
+          "ioValues": [
+            {
+              "name": "x-axis degrees",
+              "ioValue": 0
+            },
+            {
+              "name": "y-axis degrees",
+              "ioValue": 0
+            },
+            {
+              "name": "z-axis degrees",
+              "ioValue": 25,
+              "currentEquation": "25"
             }
           ]
         }
@@ -2875,25 +2873,25 @@
           "ap1Name": "geometry or number",
           "ap2Name": "geometry",
           "ap1ID": "165e5fe1-689e-407e-807b-be342fa05822",
-          "ap2ID": "15a7c68c-0ade-49bb-8a59-b9fe40cfae1b"
-        },
-        {
-          "ap1Name": "geometry",
-          "ap2Name": "geometry",
-          "ap1ID": "15a7c68c-0ade-49bb-8a59-b9fe40cfae1b",
-          "ap2ID": "141efb30-45de-4e05-8ed1-c27979f92c34"
-        },
-        {
-          "ap1Name": "geometry",
-          "ap2Name": "Shape 1",
-          "ap1ID": "141efb30-45de-4e05-8ed1-c27979f92c34",
-          "ap2ID": "80207c61-9f89-44e5-b6fc-4c71feda524d"
+          "ap2ID": "714321d1-ebd4-486c-b3c9-3a71ea90b34d"
         },
         {
           "ap1Name": "geometry",
           "ap2Name": "number or geometry",
           "ap1ID": "80207c61-9f89-44e5-b6fc-4c71feda524d",
           "ap2ID": "24e2de15-cb4f-4b2c-94e1-26660308c381"
+        },
+        {
+          "ap1Name": "geometry",
+          "ap2Name": "geometry",
+          "ap1ID": "714321d1-ebd4-486c-b3c9-3a71ea90b34d",
+          "ap2ID": "2123256b-1857-4743-b6e6-226b60396500"
+        },
+        {
+          "ap1Name": "geometry",
+          "ap2Name": "Shape 3",
+          "ap1ID": "2123256b-1857-4743-b6e6-226b60396500",
+          "ap2ID": "80207c61-9f89-44e5-b6fc-4c71feda524d"
         }
       ],
       "fileTypeVersion": 1,
@@ -2902,7 +2900,7 @@
           "BOMitemName": "Battery",
           "numberNeeded": 1,
           "costUSD": 1,
-          "source": "https://www.amazon.com/gp/product/B09Q1F319F/"
+          "source": "https://www.amazon.com/battery-Rechargeable-Lithium-Polymer-Connector/dp/B07BTKPSNP"
         }
       ]
     },
