@@ -3597,8 +3597,8 @@
     {
       "atomType": "Assembly",
       "name": "Assembly",
-      "x": 0.5185185185185185,
-      "y": 0.8774373259052926,
+      "x": 0.5238095238095238,
+      "y": 0.8913649025069639,
       "uniqueID": "1d586436-ab3e-4a83-967d-b050434cf24f",
       "ioValues": [
         {
@@ -3942,16 +3942,18 @@
       "ioValues": [
         {
           "name": "Offset",
-          "ioValue": 0
+          "ioValue": 5,
+          "currentEquation": "5"
         },
         {
           "name": "Angle X",
-          "ioValue": 90
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "Angle Z",
-          "ioValue": 90,
-          "currentEquation": "90"
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "Angle Y",
@@ -4061,7 +4063,7 @@
             },
             {
               "name": "zDist",
-              "ioValue": 0
+              "ioValue": 5
             }
           ]
         },
@@ -4074,7 +4076,7 @@
           "ioValues": [
             {
               "name": "x-axis degrees",
-              "ioValue": 90
+              "ioValue": 0
             },
             {
               "name": "y-axis degrees",
@@ -4082,7 +4084,7 @@
             },
             {
               "name": "z-axis degrees",
-              "ioValue": 90
+              "ioValue": 0
             }
           ]
         },
