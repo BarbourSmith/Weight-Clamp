@@ -2,4 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|Battery|1|$1.00|[Amazon](https://www.amazon.com/gp/product/B09Q1F319F/?tag=maslowcnc01-20)|
+|Total: |1|$1.00| |
