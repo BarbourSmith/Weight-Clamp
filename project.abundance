@@ -14,8 +14,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.28703703703703703,
-      "y": 0.5181058495821727,
+      "x": 0.3791348600508906,
+      "y": 0.5333333333333333,
       "uniqueID": "a50f62a2-4c3d-4093-b103-3df19096605d",
       "ioValues": [
         {
@@ -30,8 +30,8 @@
     },
     {
       "atomType": "ExtractTag",
-      "x": 0.3551587301587301,
-      "y": 0.1949860724233983,
+      "x": 0.5470737913486006,
+      "y": 0.3192982456140351,
       "uniqueID": "049bbfdb-10f3-45c1-ae45-e654990ce9b5",
       "name": "Extract Tag",
       "tag": "Plastic",
@@ -39,8 +39,8 @@
     },
     {
       "atomType": "Export",
-      "x": 0.5257936507936508,
-      "y": 0.14206128133704735,
+      "x": 0.7150127226463104,
+      "y": 0.19649122807017544,
       "uniqueID": "6d8c2b9b-c720-47cb-9325-e6d8db01addb",
       "ioValues": [
         {
@@ -509,8 +509,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.4914021164021164,
-          "y": 0.883008356545961,
+          "x": 0.3053435114503817,
+          "y": 0.9438596491228071,
           "uniqueID": "id-1194",
           "name": "Mounting Holes",
           "topLevel": false,
@@ -685,8 +685,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.6322751322751322,
-          "y": 0.8384401114206128,
+          "x": 0.5216284987277354,
+          "y": 0.9368421052631579,
           "uniqueID": "id-3214",
           "name": "Connector Cutout",
           "topLevel": false,
@@ -2764,6 +2764,11 @@
           "ap2ID": "id-3244"
         },
         {
+          "ap2Name": "number or geometry",
+          "ap1ID": "id-1190",
+          "ap2ID": "24e2de15-cb4f-4b2c-94e1-26660308c381"
+        },
+        {
           "ap2Name": "geometry",
           "ap1ID": "id-3232",
           "ap2ID": "id-3238"
@@ -2772,11 +2777,6 @@
           "ap2Name": "Shape 1",
           "ap1ID": "id-3238",
           "ap2ID": "id-3244"
-        },
-        {
-          "ap2Name": "number or geometry",
-          "ap1ID": "id-3244",
-          "ap2ID": "24e2de15-cb4f-4b2c-94e1-26660308c381"
         },
         {
           "ap2Name": "geometry2",
