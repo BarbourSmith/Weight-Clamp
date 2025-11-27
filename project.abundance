@@ -70,6 +70,10 @@
         {
           "name": "Shape 2",
           "ioValue": null
+        },
+        {
+          "name": "Shape 3",
+          "ioValue": null
         }
       ]
     },
@@ -2833,8 +2837,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.24933862433862436,
-          "y": 0.30362116991643456,
+          "x": 0.2533068783068783,
+          "y": 0.298050139275766,
           "uniqueID": "6d839037-6d27-4e1a-a988-3f26ad551fbb",
           "name": "One Half",
           "topLevel": false,
@@ -3796,8 +3800,8 @@
                 },
                 {
                   "atomType": "Molecule",
-                  "x": 0.3386243386243386,
-                  "y": 0.5877437325905293,
+                  "x": 0.34457671957671954,
+                  "y": 0.5710306406685237,
                   "uniqueID": "a1ef8035-679e-4174-99fe-ce0deb772853",
                   "name": "Interior volume",
                   "topLevel": false,
@@ -3880,14 +3884,14 @@
                     },
                     {
                       "atomType": "Difference",
-                      "x": 0.5396825396825397,
-                      "y": 0.20891364902506962,
+                      "x": 0.5330687830687831,
+                      "y": 0.18384401114206128,
                       "uniqueID": "c7040c06-9153-4299-9152-59d4daac245f"
                     },
                     {
                       "atomType": "Molecule",
-                      "x": 0.6455026455026455,
-                      "y": 0.6657381615598886,
+                      "x": 0.6448412698412699,
+                      "y": 0.6713091922005571,
                       "uniqueID": "9e7acc3c-f46f-4261-af3f-e2d80fa0d85a",
                       "name": "Add Magnet Holes",
                       "topLevel": false,
@@ -4168,7 +4172,7 @@
                               "ioValue": null
                             },
                             {
-                              "name": "Shape 2",
+                              "name": "Shape 3",
                               "ioValue": null
                             }
                           ]
@@ -4218,6 +4222,38 @@
                           "tags": [
                             "Plastic"
                           ]
+                        },
+                        {
+                          "atomType": "Circle",
+                          "x": 0.6580687830687831,
+                          "y": 0.8467966573816156,
+                          "uniqueID": "id-4346",
+                          "ioValues": [
+                            {
+                              "name": "diameter",
+                              "ioValue": 29,
+                              "currentEquation": "29"
+                            }
+                          ]
+                        },
+                        {
+                          "atomType": "Extrude",
+                          "x": 0.7501322751322751,
+                          "y": 0.8440111420612814,
+                          "uniqueID": "id-4349",
+                          "ioValues": [
+                            {
+                              "name": "height",
+                              "ioValue": 30,
+                              "currentEquation": "30"
+                            }
+                          ]
+                        },
+                        {
+                          "atomType": "Difference",
+                          "x": 0.7857142857142857,
+                          "y": 0.5682451253481894,
+                          "uniqueID": "id-4353"
                         }
                       ],
                       "allConnectors": [
@@ -4247,9 +4283,9 @@
                           "ap2ID": "e5bade3f-ae0f-4a10-b7d9-7d8f66f7d754"
                         },
                         {
-                          "ap2Name": "Shape 2",
+                          "ap2Name": "geometry1",
                           "ap1ID": "21f63d80-2f64-4134-976d-b58bd21537f6",
-                          "ap2ID": "id-3900"
+                          "ap2ID": "id-4353"
                         },
                         {
                           "ap2Name": "geometry",
@@ -4280,6 +4316,21 @@
                           "ap2Name": "Shape 3",
                           "ap1ID": "id-3917",
                           "ap2ID": "id-3912"
+                        },
+                        {
+                          "ap2Name": "geometry",
+                          "ap1ID": "id-4346",
+                          "ap2ID": "id-4349"
+                        },
+                        {
+                          "ap2Name": "geometry2",
+                          "ap1ID": "id-4349",
+                          "ap2ID": "id-4353"
+                        },
+                        {
+                          "ap2Name": "Shape 3",
+                          "ap1ID": "id-4353",
+                          "ap2ID": "id-3900"
                         }
                       ],
                       "fileTypeVersion": 1
@@ -5605,12 +5656,36 @@
         },
         {
           "atomType": "ExtractTag",
-          "x": 0.6593915343915344,
-          "y": 0.8635097493036212,
+          "x": 0.6547619047619048,
+          "y": 0.8690807799442898,
           "uniqueID": "id-4340",
           "name": "Extract Tag",
           "tag": "Top",
           "tagIndex": 0
+        },
+        {
+          "atomType": "Export",
+          "x": 0.8373015873015873,
+          "y": 0.8523676880222841,
+          "uniqueID": "id-4358",
+          "ioValues": [
+            {
+              "name": "File Type",
+              "ioValue": "STL"
+            },
+            {
+              "name": "Resolution (dpi)",
+              "ioValue": 96
+            },
+            {
+              "name": "Part Name",
+              "ioValue": "Top Half"
+            }
+          ],
+          "type": null,
+          "resolution": 96,
+          "importIndex": 0,
+          "partName": "Top Half"
         }
       ],
       "allConnectors": [
@@ -5643,6 +5718,11 @@
           "ap2Name": "Shape 2",
           "ap1ID": "id-4330",
           "ap2ID": "id-4325"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-4340",
+          "ap2ID": "id-4358"
         }
       ],
       "fileTypeVersion": 1
@@ -5693,6 +5773,11 @@
       "ap2Name": "Shape 4",
       "ap1ID": "8b99f149-e141-4e01-b9b5-8bb644cc8482",
       "ap2ID": "a50f62a2-4c3d-4093-b103-3df19096605d"
+    },
+    {
+      "ap2Name": "Shape 3",
+      "ap1ID": "id-4061",
+      "ap2ID": "1d586436-ab3e-4a83-967d-b050434cf24f"
     }
   ],
   "unitsKey": "MM",
