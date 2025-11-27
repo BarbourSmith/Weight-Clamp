@@ -2,5 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Battery|1|$1.00|[Amazon](https://www.amazon.com/battery-Rechargeable-Lithium-Polymer-Connector/dp/B07BTKPSNP?tag=maslowcnc01-20)|
-|Total: |1|$1.00| |
+|Battery|1|$0.00||
+|Total: |1|$0.00| |
