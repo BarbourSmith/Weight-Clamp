@@ -2942,7 +2942,7 @@
             {
               "name": "Shape 3",
               "ioValue": {
-                "geometry": "fuse-assemblyFuse-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-12-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-13-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-14-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-15-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-16-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-17-0-0-1-0-0--15-cut-extrude-cut-circle-49-circle-13.25-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-3.5-move-rotate-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-extrude-cut-circle-48-circle-14.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-20-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-21-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-22-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-23-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-24-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-25-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-26-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-27-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-28-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-29-0-0-220-0-0-0-0-0-1",
+                "geometry": "fuse-assemblyFuse-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-extrude-cut-circle-49-circle-13.25-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-3.5-move-extrude-cut-circle-48-circle-14.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-0-0-1-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-40-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-41-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-42-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-43-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-44-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-45-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-46-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-47-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-48-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-49-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-50-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-51-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-52-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-53-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-54-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-55-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-56-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-57-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-58-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-59-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-40-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-41-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-42-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-43-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-44-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-45-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-46-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-47-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-48-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-49-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-50-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-51-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-52-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-53-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-54-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-55-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-56-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-57-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-58-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-59-0-0-220-assemblyFuse-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-12-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-13-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-14-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-15-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-16-0-0-1-0-0--15-rotate-move-5ea22352-6-60-{\"geometry\":\"intersect-extrude-cut-circle-48-circle-47-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5-move-4a078758-100-10-29-0-0--100-0\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[],\"dimension\":\"3D\"}-17-0-0-1-0-0--15",
                 "tags": [
                   "Plastic"
                 ],
@@ -3185,10 +3185,817 @@
                 {
                   "name": "Shape 2",
                   "ioValue": {
-                    "geometry": "cut-extrude-cut-circle-49-circle-13.25-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-3.5-move-rotate-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-extrude-cut-circle-48-circle-14.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-20-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-21-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-22-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-23-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-24-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-25-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-26-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-27-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-28-0-0-220-rotate-5ea22352-10-30-{\"geometry\":\"move-extrude-cut-circle-5-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10-19-0-0\",\"dimension\":\"3D\",\"tags\":[],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]}-29-0-0-220-0-0-0-0-0-1",
-                    "dimension": "3D",
-                    "tags": [
-                      "Plastic"
+                    "geometry": [
+                      {
+                        "geometry": "cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-cut-extrude-cut-circle-49-circle-13.25-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-3.5-move-extrude-cut-circle-48-circle-14.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-0-0-1-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-40-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-41-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-42-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-43-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-44-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-45-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-46-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-47-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-48-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-49-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-50-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-51-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-52-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-53-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-54-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-55-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-56-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-57-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-58-0-0-220-rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-59-0-0-220",
+                        "dimension": "3D",
+                        "tags": [
+                          "Plastic"
+                        ],
+                        "plane": {
+                          "origin": [
+                            0,
+                            0,
+                            0
+                          ],
+                          "xDir": [
+                            1,
+                            0,
+                            0
+                          ],
+                          "normal": [
+                            0,
+                            0,
+                            1
+                          ]
+                        },
+                        "color": "#aad7f2",
+                        "bom": []
+                      },
+                      {
+                        "geometry": [
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-40-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-41-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-42-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-43-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-44-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-45-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-46-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-47-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-48-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-49-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-50-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-51-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-52-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-53-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-54-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-55-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-56-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-57-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          },
+                          {
+                            "geometry": [
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-58-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "Plastic"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#aad7f2",
+                                "bom": []
+                              },
+                              {
+                                "geometry": "rotate-5ea22352-10-30-{\"geometry\":[{\"geometry\":\"move-cut-extrude-circle-5-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-6-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"Plastic\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"bom\":[]},{\"geometry\":\"move-extrude-circle-4-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-5.4-19-0-0\",\"dimension\":\"3D\",\"tags\":[\"keepout\"],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#D9544D\",\"bom\":[]}],\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-59-0-0-220",
+                                "dimension": "3D",
+                                "tags": [
+                                  "keepout"
+                                ],
+                                "plane": {
+                                  "origin": [
+                                    0,
+                                    0,
+                                    0
+                                  ],
+                                  "xDir": [
+                                    1,
+                                    0,
+                                    0
+                                  ],
+                                  "normal": [
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                },
+                                "color": "#D9544D",
+                                "bom": []
+                              }
+                            ],
+                            "tags": [],
+                            "bom": [],
+                            "plane": {
+                              "origin": [
+                                0,
+                                0,
+                                0
+                              ],
+                              "xDir": [
+                                1,
+                                0,
+                                0
+                              ],
+                              "normal": [
+                                0,
+                                0,
+                                1
+                              ]
+                            },
+                            "color": "#aad7f2"
+                          }
+                        ],
+                        "tags": [],
+                        "bom": [],
+                        "plane": {
+                          "origin": [
+                            0,
+                            0,
+                            0
+                          ],
+                          "xDir": [
+                            1,
+                            0,
+                            0
+                          ],
+                          "normal": [
+                            0,
+                            0,
+                            1
+                          ]
+                        },
+                        "color": "#aad7f2"
+                      }
                     ],
                     "plane": {
                       "origin": [
@@ -3207,8 +4014,10 @@
                         1
                       ]
                     },
+                    "tags": [],
                     "color": "#aad7f2",
-                    "bom": []
+                    "bom": [],
+                    "dimension": "3D"
                   }
                 }
               ],
@@ -3885,8 +4694,8 @@
                     },
                     {
                       "atomType": "Molecule",
-                      "x": 0.5502645502645502,
-                      "y": 0.7548746518105849,
+                      "x": 0.6455026455026455,
+                      "y": 0.6657381615598886,
                       "uniqueID": "9e7acc3c-f46f-4261-af3f-e2d80fa0d85a",
                       "name": "Add Magnet Holes",
                       "topLevel": false,
@@ -3931,8 +4740,8 @@
                         },
                         {
                           "atomType": "Extrude",
-                          "x": 0.27116402116402116,
-                          "y": 0.3816155988857939,
+                          "x": 0.18518518518518517,
+                          "y": 0.3565459610027855,
                           "uniqueID": "7f011516-c857-4d5d-a8ed-25970f9ba965",
                           "ioValues": [
                             {
@@ -3944,8 +4753,8 @@
                         },
                         {
                           "atomType": "Move",
-                          "x": 0.4537037037037038,
-                          "y": 0.7409470752089137,
+                          "x": 0.49272486772486773,
+                          "y": 0.7381615598885795,
                           "uniqueID": "42f4a4f8-7bc9-4b15-8c89-b65c4dbe7c74",
                           "ioValues": [
                             {
@@ -3984,8 +4793,8 @@
                         },
                         {
                           "atomType": "Readme",
-                          "x": 0.6097883597883598,
-                          "y": 0.44011142061281333,
+                          "x": 0.5317460317460317,
+                          "y": 0.415041782729805,
                           "uniqueID": "id-2579",
                           "name": "README",
                           "readMeText": "This used to be 220 degrees",
@@ -4194,18 +5003,28 @@
                         },
                         {
                           "atomType": "Assembly",
-                          "x": 0.3419312169312169,
-                          "y": 0.7938718662952646,
+                          "x": 0.38095238095238093,
+                          "y": 0.7075208913649026,
                           "uniqueID": "id-3912",
                           "ioValues": [
                             {
-                              "name": "Shape 1",
+                              "name": "Shape 3",
                               "ioValue": null
                             },
                             {
-                              "name": "Shape 2",
+                              "name": "Shape 4",
                               "ioValue": null
                             }
+                          ]
+                        },
+                        {
+                          "atomType": "Tag",
+                          "x": 0.3220899470899471,
+                          "y": 0.5181058495821727,
+                          "uniqueID": "id-3917",
+                          "name": "Plastic",
+                          "tags": [
+                            "Plastic"
                           ]
                         }
                       ],
@@ -4226,9 +5045,9 @@
                           "ap2ID": "7f011516-c857-4d5d-a8ed-25970f9ba965"
                         },
                         {
-                          "ap2Name": "Shape 1",
+                          "ap2Name": "geometry",
                           "ap1ID": "7f011516-c857-4d5d-a8ed-25970f9ba965",
-                          "ap2ID": "id-3912"
+                          "ap2ID": "id-3917"
                         },
                         {
                           "ap2Name": "Shape",
@@ -4256,7 +5075,7 @@
                           "ap2ID": "id-3909"
                         },
                         {
-                          "ap2Name": "Shape 2",
+                          "ap2Name": "Shape 4",
                           "ap1ID": "id-3909",
                           "ap2ID": "id-3912"
                         },
@@ -4264,6 +5083,11 @@
                           "ap2Name": "geometry",
                           "ap1ID": "id-3912",
                           "ap2ID": "42f4a4f8-7bc9-4b15-8c89-b65c4dbe7c74"
+                        },
+                        {
+                          "ap2Name": "Shape 3",
+                          "ap1ID": "id-3917",
+                          "ap2ID": "id-3912"
                         }
                       ],
                       "fileTypeVersion": 1
@@ -4532,14 +5356,14 @@
                       "ap2ID": "c7040c06-9153-4299-9152-59d4daac245f"
                     },
                     {
-                      "ap2Name": "number or geometry",
-                      "ap1ID": "c7040c06-9153-4299-9152-59d4daac245f",
-                      "ap2ID": "d9ad34eb-4a36-4e7c-b4d8-424a781c86d5"
-                    },
-                    {
                       "ap2Name": "input",
                       "ap1ID": "c7040c06-9153-4299-9152-59d4daac245f",
                       "ap2ID": "9e7acc3c-f46f-4261-af3f-e2d80fa0d85a"
+                    },
+                    {
+                      "ap2Name": "number or geometry",
+                      "ap1ID": "9e7acc3c-f46f-4261-af3f-e2d80fa0d85a",
+                      "ap2ID": "d9ad34eb-4a36-4e7c-b4d8-424a781c86d5"
                     }
                   ],
                   "fileTypeVersion": 1
