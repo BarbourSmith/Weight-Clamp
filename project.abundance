@@ -1230,15 +1230,6 @@
           "x": 0.5026455026455027,
           "y": 0.479108635097493,
           "uniqueID": "id-5202"
-        },
-        {
-          "atomType": "ExtractTag",
-          "x": 0.3306878306878307,
-          "y": 0.5236768802228412,
-          "uniqueID": "id-5210",
-          "name": "Extract Tag",
-          "tag": "Electronics",
-          "tagIndex": 0
         }
       ],
       "allConnectors": [
@@ -1246,11 +1237,6 @@
           "ap2Name": "geometry2",
           "ap1ID": "id-4065",
           "ap2ID": "id-5202"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-4065",
-          "ap2ID": "id-5210"
         },
         {
           "ap2Name": "geometry1",
@@ -1915,7 +1901,7 @@
         {
           "atomType": "Molecule",
           "x": 0.24338624338624337,
-          "y": 0.21448467966573817,
+          "y": 0.23676880222841226,
           "uniqueID": "1af8e7f2-5b7e-42c4-83c0-99cbc96da7e5",
           "name": "PCB",
           "topLevel": false,
@@ -2834,7 +2820,7 @@
                 },
                 {
                   "atomType": "Molecule",
-                  "x": 0.5998677248677249,
+                  "x": 0.6044973544973545,
                   "y": 0.34818941504178275,
                   "uniqueID": "de9ee2c9-f81c-466a-9848-f13963b6e371",
                   "name": "USB Connector",
@@ -3508,6 +3494,11 @@
                     },
                     {
                       "ap2Name": "geometry",
+                      "ap1ID": "7a27cbe1-cec7-422b-a8af-1847730df3e8",
+                      "ap2ID": "f2b93b18-28b6-4432-aba6-2e37745b88bd"
+                    },
+                    {
+                      "ap2Name": "geometry",
                       "ap1ID": "f2b93b18-28b6-4432-aba6-2e37745b88bd",
                       "ap2ID": "9772a7cf-4fdd-4909-8e93-c6000fbdcf92"
                     },
@@ -3535,11 +3526,6 @@
                       "ap2Name": "Shape 1",
                       "ap1ID": "3b34a458-f180-44a9-8796-a04b902ab5c2",
                       "ap2ID": "5b99e846-6b21-4421-afa0-4fa512314ccc"
-                    },
-                    {
-                      "ap2Name": "geometry",
-                      "ap1ID": "5b99e846-6b21-4421-afa0-4fa512314ccc",
-                      "ap2ID": "f2b93b18-28b6-4432-aba6-2e37745b88bd"
                     },
                     {
                       "ap2Name": "geometry",
@@ -3839,8 +3825,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.2533068783068783,
-          "y": 0.298050139275766,
+          "x": 0.25462962962962965,
+          "y": 0.30362116991643456,
           "uniqueID": "6d839037-6d27-4e1a-a988-3f26ad551fbb",
           "name": "One Half",
           "topLevel": false,
@@ -4310,8 +4296,8 @@
             },
             {
               "atomType": "Molecule",
-              "x": 0.4755291005291006,
-              "y": 0.8440111420612814,
+              "x": 0.48743386243386244,
+              "y": 0.8328690807799443,
               "uniqueID": "d5abb603-fb2a-4ce9-b907-86cf88f39bff",
               "name": "Slot Together",
               "topLevel": false,
@@ -4412,8 +4398,8 @@
                 },
                 {
                   "atomType": "Rotate",
-                  "x": 0.7248677248677249,
-                  "y": 0.6545961002785515,
+                  "x": 0.7281746031746031,
+                  "y": 0.649025069637883,
                   "uniqueID": "709591fe-2b38-4c68-a0db-fd76010299fe",
                   "ioValues": [
                     {
@@ -4426,8 +4412,8 @@
                     },
                     {
                       "name": "z-axis degrees",
-                      "ioValue": 165,
-                      "currentEquation": "-15+180"
+                      "ioValue": 150,
+                      "currentEquation": "180-30"
                     }
                   ]
                 },
