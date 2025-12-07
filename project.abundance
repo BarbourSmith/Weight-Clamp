@@ -321,7 +321,7 @@
         {
           "atomType": "Input",
           "x": 0.025384615384615384,
-          "y": 0.13649025069637882,
+          "y": 0.15384615384615385,
           "uniqueID": "id-4065",
           "name": "input",
           "type": "geometry"
@@ -381,6 +381,12 @@
           "resolution": 96,
           "importIndex": 0,
           "partName": "Top Half"
+        },
+        {
+          "atomType": "Difference",
+          "x": 0.5026455026455027,
+          "y": 0.479108635097493,
+          "uniqueID": "id-5202"
         },
         {
           "atomType": "Molecule",
@@ -1224,12 +1230,6 @@
             }
           ],
           "fileTypeVersion": 1
-        },
-        {
-          "atomType": "Difference",
-          "x": 0.5026455026455027,
-          "y": 0.479108635097493,
-          "uniqueID": "id-5202"
         }
       ],
       "allConnectors": [
@@ -1249,16 +1249,6 @@
           "ap2ID": "id-4358"
         },
         {
-          "ap2Name": "input",
-          "ap1ID": "id-4069",
-          "ap2ID": "id-4091"
-        },
-        {
-          "ap2Name": "geometry",
-          "ap1ID": "id-4091",
-          "ap2ID": "id-4330"
-        },
-        {
           "ap2Name": "geometry",
           "ap1ID": "id-5202",
           "ap2ID": "id-4340"
@@ -1267,6 +1257,16 @@
           "ap2Name": "number or geometry",
           "ap1ID": "id-5202",
           "ap2ID": "id-4063"
+        },
+        {
+          "ap2Name": "input",
+          "ap1ID": "id-4069",
+          "ap2ID": "id-4091"
+        },
+        {
+          "ap2Name": "geometry",
+          "ap1ID": "id-4091",
+          "ap2ID": "id-4330"
         }
       ],
       "fileTypeVersion": 1
@@ -1416,9 +1416,19 @@
           ]
         },
         {
+          "atomType": "Tag",
+          "x": 0.8339947089947091,
+          "y": 0.3147632311977716,
+          "uniqueID": "id-5207",
+          "name": "Electronics",
+          "tags": [
+            "Electronics"
+          ]
+        },
+        {
           "atomType": "Molecule",
-          "x": 0.3053435114503817,
-          "y": 0.9438596491228071,
+          "x": 0.5231481481481481,
+          "y": 0.649025069637883,
           "uniqueID": "id-1194",
           "name": "Mounting Holes",
           "topLevel": false,
@@ -1900,7 +1910,7 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.24338624338624337,
+          "x": 0.24074074074074073,
           "y": 0.23676880222841226,
           "uniqueID": "1af8e7f2-5b7e-42c4-83c0-99cbc96da7e5",
           "name": "PCB",
@@ -2270,13 +2280,14 @@
                 },
                 {
                   "atomType": "Extrude",
-                  "x": 0.2645502645502646,
-                  "y": 0.5654596100278552,
+                  "x": 0.25132275132275134,
+                  "y": 0.5988857938718662,
                   "uniqueID": "id-1903",
                   "ioValues": [
                     {
                       "name": "height",
-                      "ioValue": -5
+                      "ioValue": 8,
+                      "currentEquation": "8"
                     }
                   ]
                 },
@@ -2369,7 +2380,7 @@
                     {
                       "name": "Shape 1",
                       "ioValue": {
-                        "geometry": "move-extrude-circle-0.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--5--28.57-0-0",
+                        "geometry": "move-extrude-circle-0.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-8--28.57-0-0",
                         "dimension": "3D",
                         "tags": [],
                         "plane": {
@@ -2396,7 +2407,7 @@
                     {
                       "name": "Shape 2",
                       "ioValue": {
-                        "geometry": "move-extrude-circle-0.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--5--30.48-0-0",
+                        "geometry": "move-extrude-circle-0.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-8--30.48-0-0",
                         "dimension": "3D",
                         "tags": [],
                         "plane": {
@@ -2423,7 +2434,7 @@
                     {
                       "name": "Shape 3",
                       "ioValue": {
-                        "geometry": "move-extrude-circle-0.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--5--33.14-0-0",
+                        "geometry": "move-extrude-circle-0.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-8--33.14-0-0",
                         "dimension": "3D",
                         "tags": [],
                         "plane": {
@@ -2450,7 +2461,7 @@
                     {
                       "name": "Shape 4",
                       "ioValue": {
-                        "geometry": "move-extrude-circle-0.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}--5--36.1-0-0",
+                        "geometry": "move-extrude-circle-0.75-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-8--36.1-0-0",
                         "dimension": "3D",
                         "tags": [],
                         "plane": {
@@ -3639,16 +3650,6 @@
             }
           ],
           "fileTypeVersion": 1
-        },
-        {
-          "atomType": "Tag",
-          "x": 0.8339947089947091,
-          "y": 0.3147632311977716,
-          "uniqueID": "id-5207",
-          "name": "Electronics",
-          "tags": [
-            "Electronics"
-          ]
         }
       ],
       "allConnectors": [
@@ -3688,6 +3689,11 @@
           "ap2ID": "id-3238"
         },
         {
+          "ap2Name": "number or geometry",
+          "ap1ID": "id-5207",
+          "ap2ID": "24e2de15-cb4f-4b2c-94e1-26660308c381"
+        },
+        {
           "ap2Name": "geometry2",
           "ap1ID": "id-1194",
           "ap2ID": "id-1190"
@@ -3706,11 +3712,6 @@
           "ap2Name": "Shape 2",
           "ap1ID": "1af8e7f2-5b7e-42c4-83c0-99cbc96da7e5",
           "ap2ID": "80207c61-9f89-44e5-b6fc-4c71feda524d"
-        },
-        {
-          "ap2Name": "number or geometry",
-          "ap1ID": "id-5207",
-          "ap2ID": "24e2de15-cb4f-4b2c-94e1-26660308c381"
         }
       ],
       "fileTypeVersion": 1
