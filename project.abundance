@@ -54,14 +54,14 @@
         },
         {
           "name": "Part Name",
-          "ioValue": "Weight Clamp",
-          "currentEquation": "Weight Clamp"
+          "ioValue": "Weight Clamp Bottom",
+          "currentEquation": "Weight Clamp Bottom"
         }
       ],
       "type": null,
       "resolution": 96,
       "importIndex": 0,
-      "partName": "Weight Clamp"
+      "partName": "Weight Clamp Bottom"
     },
     {
       "atomType": "Assembly",
@@ -358,8 +358,8 @@
         },
         {
           "atomType": "Export",
-          "x": 0.8373015873015873,
-          "y": 0.8523676880222841,
+          "x": 0.8412698412698413,
+          "y": 0.8635097493036212,
           "uniqueID": "id-4358",
           "ioValues": [
             {
@@ -373,14 +373,14 @@
             },
             {
               "name": "Part Name",
-              "ioValue": "Top Half",
-              "currentEquation": "Top Half"
+              "ioValue": "Weight Clamp Top",
+              "currentEquation": "Weight Clamp Top"
             }
           ],
           "type": null,
           "resolution": 96,
           "importIndex": 0,
-          "partName": "Top Half"
+          "partName": "Weight Clamp Top"
         },
         {
           "atomType": "Difference",
