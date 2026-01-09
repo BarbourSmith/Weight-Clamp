@@ -6,7 +6,17 @@
 
 
 
- This used to be 220 degrees
+ ### Clamp side
+
+### One Half
+
+### Cut away Inside
+
+### Interior volume
+
+### Add Magnet Holes
+
+This used to be 220 degrees
 
 
 
