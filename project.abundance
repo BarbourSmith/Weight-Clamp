@@ -2168,10 +2168,6 @@
                     {
                       "name": "radius",
                       "ioValue": 2
-                    },
-                    {
-                      "name": "inputShape",
-                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -5362,10 +5358,6 @@
                         {
                           "name": "Angle",
                           "ioValue": 60
-                        },
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -5541,8 +5533,8 @@
                 },
                 {
                   "atomType": "Molecule",
-                  "x": 0.34457671957671954,
-                  "y": 0.5710306406685237,
+                  "x": 0.3511904761904762,
+                  "y": 0.5472222222222223,
                   "uniqueID": "a1ef8035-679e-4174-99fe-ce0deb772853",
                   "name": "Interior volume",
                   "ioValues": [
@@ -5958,8 +5950,8 @@
                         },
                         {
                           "atomType": "Circle",
-                          "x": 0.06415343915343916,
-                          "y": 0.8551532033426184,
+                          "x": 0.07142857142857142,
+                          "y": 0.8694444444444444,
                           "uniqueID": "89fc94a1-4763-4337-bc55-5fd2e05a924b",
                           "ioValues": [
                             {
@@ -5970,8 +5962,8 @@
                         },
                         {
                           "atomType": "Circle",
-                          "x": 0.07208994708994709,
-                          "y": 0.520891364902507,
+                          "x": 0.07275132275132275,
+                          "y": 0.5083333333333333,
                           "uniqueID": "16874142-a389-4a4c-b11d-1a1eeb28554b",
                           "ioValues": [
                             {
@@ -6052,7 +6044,7 @@
                           "name": "README",
                           "ioValues": [
                             {
-                              "name": "geometry",
+                              "name": "value",
                               "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
@@ -6183,8 +6175,8 @@
                         },
                         {
                           "atomType": "GitHubMolecule",
-                          "x": 0.591931216931217,
-                          "y": 0.67966573816156,
+                          "x": 0.5952380952380952,
+                          "y": 0.6305555555555556,
                           "uniqueID": "e5bade3f-ae0f-4a10-b7d9-7d8f66f7d754",
                           "name": "RotatePattern",
                           "ioValues": [
@@ -6282,10 +6274,6 @@
                                 {
                                   "name": "Angle",
                                   "ioValue": 30
-                                },
-                                {
-                                  "name": "Shape",
-                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
