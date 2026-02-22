@@ -20,8 +20,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.20965608465608468,
-      "y": 0.48055555555555557,
+      "x": 0.208994708994709,
+      "y": 0.4916666666666667,
       "uniqueID": "a50f62a2-4c3d-4093-b103-3df19096605d",
       "ioValues": [
         {
@@ -6547,8 +6547,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.628968253968254,
-          "y": 0.7638888888888888,
+          "x": 0.5985449735449735,
+          "y": 0.7888888888888889,
           "uniqueID": "id-6048",
           "name": "Friction Post",
           "topLevel": false,
@@ -6623,34 +6623,8 @@
             },
             {
               "atomType": "Move",
-              "x": 0.4973544973544974,
-              "y": 0.2638888888888889,
-              "uniqueID": "id-6065",
-              "ioValues": [
-                {
-                  "name": "geometry",
-                  "ioValue": "__GEOMETRY_INPUT__"
-                },
-                {
-                  "name": "xDist",
-                  "ioValue": -20,
-                  "currentEquation": "-20"
-                },
-                {
-                  "name": "yDist",
-                  "ioValue": -20,
-                  "currentEquation": "-20"
-                },
-                {
-                  "name": "zDist",
-                  "ioValue": 0
-                }
-              ]
-            },
-            {
-              "atomType": "Move",
-              "x": 0.5145502645502645,
-              "y": 0.5388888888888889,
+              "x": 0.5105820105820106,
+              "y": 0.5305555555555556,
               "uniqueID": "id-6071",
               "ioValues": [
                 {
@@ -6659,12 +6633,12 @@
                 },
                 {
                   "name": "xDist",
-                  "ioValue": 0,
-                  "currentEquation": "0"
+                  "ioValue": -43
                 },
                 {
                   "name": "yDist",
-                  "ioValue": 0
+                  "ioValue": 0,
+                  "currentEquation": "0"
                 },
                 {
                   "name": "zDist",
@@ -6706,7 +6680,7 @@
                 {
                   "name": "Shape 1",
                   "ioValue": {
-                    "geometry": "move-move-extrude-circle-2-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-0-1-0-0-0",
+                    "geometry": "move-move-extrude-circle-2-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-0-1--43-0-0",
                     "dimension": "3D",
                     "tags": [],
                     "plane": {
@@ -6758,9 +6732,9 @@
                   }
                 },
                 {
-                  "name": "Shape 3",
+                  "name": "Shape 6",
                   "ioValue": {
-                    "geometry": "move-move-extrude-circle-2-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-0-1--20--20-0",
+                    "geometry": "move-move-extrude-circle-2-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-0-1--29--32-0",
                     "dimension": "3D",
                     "tags": [],
                     "plane": {
@@ -6786,6 +6760,31 @@
                 }
               ],
               "unionType": "Fusion"
+            },
+            {
+              "atomType": "Move",
+              "x": 0.5251322751322751,
+              "y": 0.22777777777777777,
+              "uniqueID": "id-6116",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "xDist",
+                  "ioValue": -29
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": -32,
+                  "currentEquation": "-32"
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": 0
+                }
+              ]
             }
           ],
           "allConnectors": [
@@ -6802,11 +6801,6 @@
             {
               "ap2Name": "geometry",
               "ap1ID": "id-6059",
-              "ap2ID": "id-6065"
-            },
-            {
-              "ap2Name": "geometry",
-              "ap1ID": "id-6059",
               "ap2ID": "id-6071"
             },
             {
@@ -6815,9 +6809,9 @@
               "ap2ID": "id-6077"
             },
             {
-              "ap2Name": "Shape 3",
-              "ap1ID": "id-6065",
-              "ap2ID": "id-6083"
+              "ap2Name": "geometry",
+              "ap1ID": "id-6059",
+              "ap2ID": "id-6116"
             },
             {
               "ap2Name": "Shape 1",
@@ -6833,6 +6827,11 @@
               "ap2Name": "number or geometry",
               "ap1ID": "id-6083",
               "ap2ID": "id-6050"
+            },
+            {
+              "ap2Name": "Shape 6",
+              "ap1ID": "id-6116",
+              "ap2ID": "id-6083"
             }
           ],
           "fileTypeVersion": 1
