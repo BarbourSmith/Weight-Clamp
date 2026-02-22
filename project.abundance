@@ -20,8 +20,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.20304232804232802,
-      "y": 0.46239554317548753,
+      "x": 0.20767195767195767,
+      "y": 0.44999999999999996,
       "uniqueID": "a50f62a2-4c3d-4093-b103-3df19096605d",
       "ioValues": [
         {
@@ -350,8 +350,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.29828042328042326,
-      "y": 0.8969359331476323,
+      "x": 0.30092592592592593,
+      "y": 0.8305555555555555,
       "uniqueID": "id-4061",
       "name": "Top Half",
       "ioValues": [
@@ -2168,6 +2168,10 @@
                     {
                       "name": "radius",
                       "ioValue": 2
+                    },
+                    {
+                      "name": "inputShape",
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -5358,6 +5362,10 @@
                         {
                           "name": "Angle",
                           "ioValue": 60
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -6274,6 +6282,10 @@
                                 {
                                   "name": "Angle",
                                   "ioValue": 30
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
