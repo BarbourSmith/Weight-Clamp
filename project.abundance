@@ -2536,10 +2536,6 @@
                     {
                       "name": "radius",
                       "ioValue": 2
-                    },
-                    {
-                      "name": "inputShape",
-                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -4781,8 +4777,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.58994708994709,
-          "y": 0.7944444444444444,
+          "x": 0.5998677248677249,
+          "y": 0.7805555555555554,
           "uniqueID": "id-6048",
           "name": "Friction Post",
           "topLevel": false,
@@ -4985,6 +4981,33 @@
                     "color": "#aad7f2",
                     "bom": []
                   }
+                },
+                {
+                  "name": "Shape 7",
+                  "ioValue": {
+                    "geometry": "move-move-extrude-circle-2-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-0-0-1--24-37-0",
+                    "dimension": "3D",
+                    "tags": [],
+                    "plane": {
+                      "origin": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "xDir": [
+                        1,
+                        0,
+                        0
+                      ],
+                      "normal": [
+                        0,
+                        0,
+                        1
+                      ]
+                    },
+                    "color": "#aad7f2",
+                    "bom": []
+                  }
                 }
               ],
               "unionType": "Fusion"
@@ -5028,6 +5051,30 @@
               "tags": [
                 "Plastic"
               ]
+            },
+            {
+              "atomType": "Move",
+              "x": 0.5257936507936508,
+              "y": 0.8972222222222223,
+              "uniqueID": "id-8879",
+              "ioValues": [
+                {
+                  "name": "geometry",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "xDist",
+                  "ioValue": -24
+                },
+                {
+                  "name": "yDist",
+                  "ioValue": 37
+                },
+                {
+                  "name": "zDist",
+                  "ioValue": 0
+                }
+              ]
             }
           ],
           "allConnectors": [
@@ -5057,6 +5104,11 @@
               "ap2ID": "id-6116"
             },
             {
+              "ap2Name": "geometry",
+              "ap1ID": "id-6059",
+              "ap2ID": "id-8879"
+            },
+            {
               "ap2Name": "Shape 1",
               "ap1ID": "id-6071",
               "ap2ID": "id-6083"
@@ -5080,6 +5132,11 @@
               "ap2Name": "number or geometry",
               "ap1ID": "id-7960",
               "ap2ID": "id-6050"
+            },
+            {
+              "ap2Name": "Shape 7",
+              "ap1ID": "id-8879",
+              "ap2ID": "id-6083"
             }
           ],
           "fileTypeVersion": 1
@@ -6039,10 +6096,6 @@
                         {
                           "name": "Angle",
                           "ioValue": 60
-                        },
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -6959,10 +7012,6 @@
                                 {
                                   "name": "Angle",
                                   "ioValue": 30
-                                },
-                                {
-                                  "name": "Shape",
-                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
