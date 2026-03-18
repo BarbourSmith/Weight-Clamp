@@ -2597,6 +2597,10 @@
                     {
                       "name": "radius",
                       "ioValue": 2
+                    },
+                    {
+                      "name": "inputShape",
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -6157,6 +6161,10 @@
                         {
                           "name": "Angle",
                           "ioValue": 60
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -7073,6 +7081,10 @@
                                 {
                                   "name": "Angle",
                                   "ioValue": 30
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
