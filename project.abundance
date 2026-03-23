@@ -350,8 +350,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.3134920634920635,
-      "y": 0.8527777777777777,
+      "x": 0.31547619047619047,
+      "y": 0.8440111420612814,
       "uniqueID": "id-4061",
       "name": "Top Half",
       "ioValues": [
@@ -409,8 +409,8 @@
         },
         {
           "atomType": "Export",
-          "x": 0.7354497354497355,
-          "y": 0.3175487465181059,
+          "x": 0.7380952380952381,
+          "y": 0.3203342618384401,
           "uniqueID": "id-4358",
           "ioValues": [
             {
@@ -1001,8 +1001,8 @@
             },
             {
               "atomType": "Extrude",
-              "x": 0.3273809523809524,
-              "y": 0.6044568245125348,
+              "x": 0.3287037037037037,
+              "y": 0.6072423398328691,
               "uniqueID": "id-9860",
               "ioValues": [
                 {
@@ -1011,7 +1011,8 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": -2.4
+                  "ioValue": -1.4,
+                  "currentEquation": "-1.4"
                 }
               ]
             },
@@ -2649,6 +2650,10 @@
                     {
                       "name": "radius",
                       "ioValue": 2
+                    },
+                    {
+                      "name": "inputShape",
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -6372,6 +6377,10 @@
                         {
                           "name": "Angle",
                           "ioValue": 60
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -7288,6 +7297,10 @@
                                 {
                                   "name": "Angle",
                                   "ioValue": 30
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
