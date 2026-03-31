@@ -1011,8 +1011,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": -1.4,
-                  "currentEquation": "-1.4"
+                  "ioValue": -1.4
                 }
               ]
             },
@@ -2464,8 +2463,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.14484126984126983,
-          "y": 0.777158774373259,
+          "x": 0.1474867724867725,
+          "y": 0.7994428969359332,
           "uniqueID": "165e5fe1-689e-407e-807b-be342fa05822",
           "name": "Battery",
           "topLevel": false,
@@ -2484,8 +2483,8 @@
             },
             {
               "atomType": "Rectangle",
-              "x": 0.1554232804232804,
-              "y": 0.7075208913649026,
+              "x": 0.16137566137566137,
+              "y": 0.7214484679665739,
               "uniqueID": "9d2fec25-22d9-46f5-bfef-8ed2a62af96f",
               "ioValues": [
                 {
@@ -2650,10 +2649,6 @@
                     {
                       "name": "radius",
                       "ioValue": 2
-                    },
-                    {
-                      "name": "inputShape",
-                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -6377,10 +6372,6 @@
                         {
                           "name": "Angle",
                           "ioValue": 60
-                        },
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -7297,10 +7288,6 @@
                                 {
                                   "name": "Angle",
                                   "ioValue": 30
-                                },
-                                {
-                                  "name": "Shape",
-                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
