@@ -96,6 +96,46 @@
       ]
     },
     {
+      "atomType": "Assembly",
+      "x": 0.7559523809523809,
+      "y": 0.520891364902507,
+      "uniqueID": "id-10835",
+      "ioValues": [
+        {
+          "name": "Shape 1",
+          "ioValue": null
+        },
+        {
+          "name": "Shape 2",
+          "ioValue": null
+        }
+      ]
+    },
+    {
+      "atomType": "Move",
+      "x": 0.6752645502645503,
+      "y": 0.7799442896935932,
+      "uniqueID": "id-10839",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "xDist",
+          "ioValue": -50
+        },
+        {
+          "name": "yDist",
+          "ioValue": 0
+        },
+        {
+          "name": "zDist",
+          "ioValue": 30
+        }
+      ]
+    },
+    {
       "atomType": "Molecule",
       "x": 0.45171957671957674,
       "y": 0.6323119777158774,
@@ -7349,48 +7389,6 @@
         }
       ],
       "fileTypeVersion": 1
-    },
-    {
-      "atomType": "Assembly",
-      "x": 0.7559523809523809,
-      "y": 0.520891364902507,
-      "uniqueID": "id-10835",
-      "ioValues": [
-        {
-          "name": "Shape 1",
-          "ioValue": null
-        },
-        {
-          "name": "Shape 2",
-          "ioValue": null
-        }
-      ]
-    },
-    {
-      "atomType": "Move",
-      "x": 0.6752645502645503,
-      "y": 0.7799442896935932,
-      "uniqueID": "id-10839",
-      "ioValues": [
-        {
-          "name": "geometry",
-          "ioValue": "__GEOMETRY_INPUT__"
-        },
-        {
-          "name": "xDist",
-          "ioValue": -50,
-          "currentEquation": "-50"
-        },
-        {
-          "name": "yDist",
-          "ioValue": 0
-        },
-        {
-          "name": "zDist",
-          "ioValue": 30,
-          "currentEquation": "30"
-        }
-      ]
     }
   ],
   "allConnectors": [
@@ -7420,6 +7418,16 @@
       "ap2ID": "6d8c2b9b-c720-47cb-9325-e6d8db01addb"
     },
     {
+      "ap2Name": "number or geometry",
+      "ap1ID": "id-10835",
+      "ap2ID": "cda3a268-565c-44c5-8b67-c6309b8d7eab"
+    },
+    {
+      "ap2Name": "Shape 2",
+      "ap1ID": "id-10839",
+      "ap2ID": "id-10835"
+    },
+    {
       "ap2Name": "Shape 3",
       "ap1ID": "id-4061",
       "ap2ID": "1d586436-ab3e-4a83-967d-b050434cf24f"
@@ -7443,16 +7451,6 @@
       "ap2Name": "Shape 4",
       "ap1ID": "8b99f149-e141-4e01-b9b5-8bb644cc8482",
       "ap2ID": "a50f62a2-4c3d-4093-b103-3df19096605d"
-    },
-    {
-      "ap2Name": "number or geometry",
-      "ap1ID": "id-10835",
-      "ap2ID": "cda3a268-565c-44c5-8b67-c6309b8d7eab"
-    },
-    {
-      "ap2Name": "Shape 2",
-      "ap1ID": "id-10839",
-      "ap2ID": "id-10835"
     }
   ],
   "unitsKey": "MM",
